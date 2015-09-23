@@ -1,5 +1,8 @@
 var index = 0;
 var last, start = last = Date.now();
+var out = process.argv[2];
+var fs = require('fs');
+var fd = fs.openSync(out, 'a');
 
 function pretty(data){
     var log = [ '\n\n------------------ [' ];
@@ -13,14 +16,15 @@ function pretty(data){
 module.exports = function(res){
     res.on('data', function(d){
         var now = Date.now();
-        var info = {
+        var info = pretty({
             length: d.length,
             index: index++,
             cost: (now - last) + 'ms',
             total: (now - start) + 'ms'
-        };
-        process.stdout.write(d);
-        process.stdout.write(pretty(info));
+        });
+        console.log(info);
+        fs.writeSync(fd, d.toString('utf8'));
+        fs.writeSync(fd, info);
         last = now;
     });
 };
