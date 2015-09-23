@@ -1,0 +1,1285 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="dns-prefetch" href="http://huntnews.in">
+        <meta charset="utf-8"/>
+        <title>India News</title>
+        <script type="text/javascript">var _START_TIME = +new Date;</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="format-detection" content="telphone=no, email=no" />
+        <meta name="renderer" content="webkit">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="MobileOptimized" content="320">
+        <meta name="screen-orientation" content="portrait">
+        <meta name="x5-orientation" content="portrait">
+        <meta name="msappli
+
+------------------ [length: 1022 index: 0 cost: 648ms total: 648ms] ------------------
+
+cation-tap-highlight" content="no">
+        <link rel="icon" href="/public/v/layout/favicon.ico" />
+        <script>window._clientConfig = {"uc_param_str":"dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw","toggle_showpic":"news_showpic","newsweb_host":"http://huntnews.in","in_ucwebview":"news_ucwebview","notice_key":"news_notice","guide_key":"news_guide"};</script>
+        <script>!function(e,n){function c(e){var n=location.search.match(new RegExp("[?&]"+e+"=([^&]+)","i"));return n&&n[1]||""}function t(e){return Object.keys(e).map(function(n){return n+"="+encodeURIComponent(e[n])}).join("&")}function o(n){if(n=n||e.location.pathname,"/"==n)return"index";var c=n.match(/^\/p\/(\w+)/);return c?c[1]:n}function a(e){return e?decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null:null}var i=function(i,r){r.type=i,r.pg=r.pg||o(),r.path=r.path||e.location.pathname||"",r.ch=c("ch")||a("news_ch")||"",r.ch1=c("ch1")||a("news_ch1")||"",r.uc_param_str="dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw",r._ts=+new Date;var l={pageview:"/collect/pageview",click:"/collect/click",event:"/collect/event"},p=l[i]||"/collect/log",u=n.createElement("img");u.src=p+"?"+t(r)};e._uca=i}(window,document);</script>
+        <script>!function(){var e=window.localStorage,t="__newsweb_page_timeline__",n=location.pathname,i={pg:n,page:n},o={init:function(t){return e?(this._init_time=t||+new Date,this):void 0},save:function(n,o){if(e){var r=+new Date-this._init_time;i[n]||(console.log("[Timeline]",n,r),i[n]=r,e.setItem(t,JSON.stringify(i))),"function"==typeof o&&o.call(this,r)}return this},collect:function(){try{var n=e.getItem(t);if(n){if(n=JSON.parse(n),!n.header)return this;var i={category:"arrival",action:"timeline",user_init:USER_INIT};Object.keys(n).filter(function(e){return"pg"!==e}).forEach(function(e){i["co_"+e]=n[e]||0}),_uca&&(_uca("event",i),e.removeItem(t))}}catch(o){console.log("[Timeline]",o)}return this}};window.addEventListener("beforeunload",function(){return i.header?!i.first_screen&&i.header?o.save("first_screen_before_unload"):!i.footer&&i.first_screen?o.save("footer_before_unload"):!i.js_load&&i.footer?o.save("js_load_before_unload"):!i.js_exec&&i.js_load?o.save("js_exec_before_unload"):void 0:o.save("header_before_unload")}),window.pagetimeline=o}();</script>
+        <script type="text/javascript">
+            // [STAT] UAE前端性能监控
+            (function(win,doc,s,url,ua,node,n){
+                win[ua]=win[ua]||function(){(win[ua].q=win[ua].q||[]).push(arguments);};if(win.performance){window.addEventListener("load",function(){"use strict";var e=window.performance.timing;if(e.requestStart===0||e.responseStart===0||e.responseEnd===0||e.responseEnd-e.responseStart<0||e.domContentLoadedEventEnd-e.navigationStart<0){return}else{var t=e.domainLookupEnd-e.domainLookupStar
+
+------------------ [length: 2920 index: 1 cost: 8ms total: 656ms] ------------------
+
+t;var n=e.connectEnd-e.connectStart;var r=e.responseStart-e.requestStart;var i=e.responseEnd-e.responseStart;var s=e.responseEnd-e.navigationStart;var o=e.domContentLoadedEventEnd-e.navigationStart;var u=["http://bench.uc.cn/c?uc_param_str=ntnwcpfr","dns="+t,"conn="+n,"req="+r,"res="+i,"rt="+s,"intr="+o];var a=window.ua;var f=function(){var e;var t=true;for(var n=0;n<a.q.length;n++){var r=a.q[n][0]+"=";for(var i=1,s=u.length;i<s;i++){if(u[i].indexOf(r)!=-1){u.splice(i,1);s--}}if(a.q[n][0]==="app"||a.q[n][0]==="path"){u.splice(1,0,Array.prototype.join.call(a.q[n],"="))}else if(a.q[n][0]==="percent"){if(l()>a.q[n][1]){t=false}}else if(a.q[n][0]==="send"){a.q.splice(0,n+1);break}else{u.push(Array.prototype.join.call(a.q[n],"="))}}if(t){var o=u.join("&");try{e=new XMLHttpRequest}catch(f){e=new ActiveXObject("Microsoft.XMLHTTP")}e.open("GET",o,true);e.send()}};var l=function(){return 100*Math.random()};var c=0;while(c<a.q.length){if(a.q[c][0]==="firstPageTime"){firstPageTime();a.q.splice(c,1)}else if(a.q[c][0]==="send"){f();c=0}else c++}var h=function(){if(arguments[0]==="firstPageTime"){firstPageTime()}else if(arguments[0]==="send"){f()}else{a.q.push(arguments)}};h.q=a.q;window.ua=h}},false);}
+            })(window,document,'script','http://bench.uc.cn/performance.js','ua');
+            ua('app', 'uae1604');
+            var USER_INIT = localStorage.getItem("newsweb_userInit") || 0;
+        </script>
+        <script type="text/javascript">
+            // [STAT] 到达率 / 头部打点
+            pagetimeline.init(_START_TIME).save('header', function(value){
+                _uca('event', {
+                    category: 'arrival',
+                    action: 'header',
+                    time: value,
+                    user_init: USER_INIT
+                })
+            })
+        </script>
+        
+        
+        
+        
+        
+        
+        
+    <style>html,body{margin:0;padding:0;height:100%;width:100%;background-color:#fff;-webkit-overflow-scrolling:touch;-webkit-tap-highlight-color:rgba(0,0,0,0);cursor:pointer}a{text-decoration:none;color:#000}body{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;overflow-y:auto}@-webkit-keyframes loading{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}.g-hide{display:none}.g-ctimg{width:100%;height:auto;position:absolute;left:0;top:0;right:0;bottom:0;margin:auto}
+.w-notice{background-color:rgba(84,172,228,.8);height:35px;line-height:35px;text-align:center;color:#fff;position:fixed;top:85px;left:0;width:100%;z-index:12;display:none}.webview .w-notice{top:40px}
+.w-list-fragment.invisible section{display:none}
+.w-header{border-bottom:1px solid #ddd;background-color:rgba(255,255,255,1);line-height:44px;color:#333;height:44px}.w-header-title{text-indent:-1000px;margin:0 10px;background:url(/public/c/widget/header/img/logo_51f2b88.png) no-repeat 0 5px;height:44px;background-size:auto 35px}.w-header-toolbar{position:absolute;top:0;right:0;height:44px}.w-header-btn{float:right;width:40px;height:44px;cursor:pointer;-webkit-tap-highlight-color:rgba(0,0,0,0)}.w-header-btn:active{background-color:#F6F6EF}.w-header-btn>i{display:block;width:25px;height:25px;border-radius:40px;margin:9px auto}.w-header-setting{right:40px;background-repeat: no-repeat;}.w-header-setting.active{background-color:#04b60a;background-repeat: no-repeat;}.w-header-refresh{background:url(/public/c/widget/header/img/ico-refresh_b47fa07.png) no-repeat 0 0;background-size:25px 25px}.w-header-refresh.active{-webkit-animation:refreshing 1s linear infinite;animation:refreshing 1s linear infinite;-webkit-transform-origin:12px 14px;transform-origin:12px 14px}@-webkit-keyframes refreshing{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.w-header-popup{height:84px;width:180px;padding:8px 10px;box-sizing:border-box;position:absolute;top:46px;right:0;z-index:3;background:url(/public/c/widget/header/img/popup_c396d27.png) no-repeat 0 0;background-size:180px auto;display:none}.w-header-popitem{height:34px;font:400 .8em/34px Arial;overflow:hidden}.w-header-pictureswitch,.w-header-noticeswitch{height:22px;width:35px;margin:6px 0;display:inline-block;float:right;background-repeat: no-repeat;}.w-header-pictureswitch.off,.w-header-noticeswitch.off{background-repeat: no-repeat;}.w-header-setting{background-position:-10px 0px}.w-header-pictureswitch,.w-header-noticeswitch{background-position:0px -25px}.w-header-pictureswitch.off,.w-header-noticeswitch.off{background-position:0px -47px}.w-header-setting,.w-header-pictureswitch,.w-header-noticeswitch,.w-header-pictureswitch.off,.w-header-noticeswitch.off{background-size: 35px 69px;background-image: url(/public/c/widget/header/header_0.5_z_c6b844c.png)}.w-header-setting.active{background-position:0px 0px}.w-header-setting.active{background-size: 25px 25px;background-image: url(/public/c/widget/header/header_0.4166666666666667_z_14a3d84.png)}
+.w-progress{position:fixed;z-index:99;top:50%;left:50%;margin:-30px 0 0 -30px;height:60px;height:60px;display:none}.w-progress-inner{position:absolute;top:0;right:0;bottom:0;left:0;margin:auto;padding:5px;width:60px;height:60px;display:inline-block;background-color:rgba(255,255,255,.9);border-radius:3px}.w-progress-loading{-webkit-animation:loading 3s infinite linear;animation:loading 3s infinite linear;width:60px;height:60px;display:inline-block;border:3px dashed #04b60a;border-radius:50%;box-sizing:border-box}.w-progress-text{display:inline-block;width:60px;height:60px;line-height:60px;text-align:center;font-size:.6em;font-weight:700;position:absolute;z-index:2;top:5px;left:5px;color:#04b60a}@-webkit-keyframes loading{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}
+.w-tab{background-color:rgba(244,244,244,.95);color:#000;height:40px;overflow:hidden;overflow-x:scroll;-webkit-overflow-scrolling:touch}.w-tab::-webkit-scrollbar{display:none}.w-tab-list{height:40px;white-space:nowrap;-webkit-user-select:none}.w-tab-btn{display:inline-block;width:20%;padding:0 10px;text-align:center;height:40px;line-height:37px;box-sizing:border-box;color:#000;font-size:.8em;float:left}.w-tab-btn.active{border-bottom:3px solid #04b60a;color:#04b60a}
+.w-ico-s{display:inline-block;height:12px;width:12px;line-height:12px;background-size:12px 12px;font-size:0}.w-ico-m{display:inline-block;height:24px;width:24px;line-height:24px;background-size:24px 24px;font-size:0}.w-ico-l{display:inline-block;height:36px;width:36px;line-height:36px;background-size:36px 36px;font-size:0}.w-ico-xl{display:inline-block;height:48px;width:48px;line-height:48px;background-size:48px 48px;font-size:0}.w-ico-home{display:inline-block;height:24px;width:24px;background-repeat: no-repeat;}.w-ico-back{display:inline-block;height:24px;width:24px;background-repeat: no-repeat;}.w-ico-warn{display:inline-block;height:24px;width:24px;background-repeat: no-repeat;}.w-ico-share{display:inline-block;height:24px;width:24px;background-repeat: no-repeat;}.w-ico-view{display:inline-block;width:13px;height:9px;background-repeat: no-repeat;}.w-ico-fire1{display:inline-block;width:14px;height:16px;background-repeat: no-repeat;}.w-ico-fire1-s{display:inline-block;width:12px;height:12px;background-repeat: no-repeat;}.w-ico-fire2{display:inline-block;width:14px;height:16px;background-repeat: no-repeat;}.w-ico-fire2-s{display:inline-block;width:12px;height:12px;background-repeat: no-repeat;}.w-ico-fire3{display:inline-block;width:14px;height:16px;background-repeat: no-repeat;}.w-ico-fire3-s{display:inline-block;width:12px;height:12px;background-repeat: no-repeat;}.w-ico-fire4{display:inline-block;width:11px;height:11px;background-repeat: no-repeat;}.w-ico-fire5{display:inline-block;width:8px;height:10px;background:url(img/fire5.png?__sprite) no-repeat 0 0;background-size:8px 10px}.w-ico-album{width:10px;height:10px;display:inline-block;background-repeat: no-repeat;}.w-ico-logo{width:45px;height:45px;display:inline-block;margin:0;padding:0;background-repeat: no-repeat;}.w-ico-refresh2{width:21px;height:21px;display:inline-block;background-repeat: no-repeat;}.w-ico-clock{display:inline-block;width:12px;height:12px;background-repeat: no-repeat;}.w-ico-thumb{display:inline-block;width:12px;height:12px;background-repeat: no-repeat;}.w-ico-home{background-position:0px 0px}.w-ico-back{background-position:0px -24px}.w-ico-warn{background-position:0px -48px}.w-ico-share{background-position:0px -72px}.w-ico-view{background-position:-11px -96px}.w-ico-fire1{background-position:-10px -105px}.w-ico-fire1-s{background-position:-12px -121.5px}.w-ico-fire2{background-position:-10px -133.5px}.w-ico-fire2-s{background-position:-12px -150px}.w-ico-fire3{background-position:-10px -162px}.w-ico-fire4{background-position:-13px -178.5px}.w-ico-album{background-position:-14px -189.5px}.w-ico-refresh2{background-position:-3px -199.5px}.w-ico-clock{background-position:-12px -220.5px}.w-ico-thumb{background-position:-12px -232.5px}.w-ico-home,.w-ico-back,.w-ico-warn,.w-ico-share,.w-ico-view,.w-ico-fire1,.w-ico-fire1-s,.w-ico-fire2,.w-ico-fire2-s,.w-ico-fire3,.w-ico-fire4,.w-ico-album,.w-ico-refresh2,.w-ico-clock,.w-ico-thumb{background-size: 24px 244.5px;background-image: url(/public/c/widget/iconset/iconset_0.5_z_e03ac60.png)}.w-ico-fire3-s{background-position:0px 0px}.w-ico-fire3
+
+------------------ [length: 9386 index: 2 cost: 6ms total: 662ms] ------------------
+
+-s{background-size: 12px 14.142857142857142px;background-image: url(/public/c/widget/iconset/iconset_0.42857142857142855_z_c608758.png)}.w-ico-logo{background-position:0px 0px}.w-ico-logo{background-size: 45px 45px;background-image: url(/public/c/widget/iconset/iconset_0.5921052631578947_z_b0f5be5.png)}
+.w-li{position:relative}.w-li:after{content:"";display:block;padding:0;overflow:hidden;border-bottom:1px solid #e9e9ea}.w-li-post{display:block;padding:15px 10px;box-sizing:border-box}.w-li-post:active{background-color:#eee}.w-li-post-title{min-height:48px;max-height:57px;overflow:hidden;margin:0;padding:0;line-height:1.5em;font-size:13px;font-weight:400}.w-li-post-cover{float:right;display:inline-block;width:100px;height:60px;overflow:hidden;box-sizing:border-box;position:relative;margin:0 0 0 10px;background:url(/public/c/widget/li/img/default-cover_05ced15.png) no-repeat center center;background-size:cover}.w-li-gallery{display:block;padding:10px;margin:0}.w-li-gallery-title{font-weight:400;font-size:13px;line-height:1.5em;margin:0 0 5px;padding:0}.w-li-gallery-cover{font-size:0;list-style:none;padding:0;margin:0 -.665%;height:69px;overflow:hidden}.w-li-gallery-cover li{width:32%;height:60px;margin:0 .665%;display:inline-block;box-sizing:border-box;background:url(/public/c/widget/li/img/default-cover_05ced15.png) no-repeat center center;background-size:cover;line-height:0;float:left;position:relative;overflow:hidden}.w-li-album{positi
+
+------------------ [length: 1460 index: 3 cost: 275ms total: 937ms] ------------------
+
+on:absolute;bottom:5px;right:5px;padding:2px 4px 4px;line-height:14px;font-size:.8em;color:#fff;display:inline-block;height:12px;background-color:rgba(0,0,0,.5);border-radius:2px}.w-li-meta{font-size:12px;color:#b1b1b1;line-height:15px}.w-li-meta span:first-child{margin-right:5px}.w-li-time{float:right;height:15px}.w-li-time .now{height:15px;line-height:15px;color:#ffc001}.w-li-must{color:#f11f15}.w-li-hot1{color:#ff5a34}.w-li-hot2{color:#ff975e}.w-li-24h{color:#329bde}.w-li-recommend,.w-li-big{color:#f19149}a:visited .w-li-gallery-title,a:visited .w-li-post-title{color:#b1b1b1}
+.p-index-header{position:fixed;width:100%;left:0;top:0;right:0;z-index:100}.p-index-list{padding-top:85px}.webview .p-index-list{padding-top:40px}.p-index-more{color:#04b60a;cursor:pointer;line-height:3em;padding:10px;display:none;text-align:center;background-color:#fff}.p-index-more span{height:12px;width:12px;border-radius:50%;border:2px dashed #04b60a;-webkit-animation:loading 1.5s infinite linear;display:inline-block;margin-right:5px}.p-index-top{position:fixed;bottom:10px;right:10px;z-index:10;display:inline-block;width:30px;height:30px;background:rgba(0,0,0,.5) url(/public/c/page/index/img/top_0b94a15.png) no-repeat center center;background-size:30px 30px;padding:5px;border-radius:3px;-webkit-transform:translateX(50px);transform:translateX(50px);-webkit-transition:-webkit-transform .2s;transition:transform .2s}.p-index-top.show{-webkit-transform:translateX(0);transform:translateX(0)}.p-index-pull2refresh{height:40px;width:100%;padding-top:45px;position:fixed;top:0;left:0;right:0;z-index:9;text-align:center;vertical-align:bottom;opacity:0}.webview .p-index-pull2refresh{padding-top:0}.p-index-pull2refresh div{position:relative;margin:0 auto;width:40px;height:40px;display:inline-block;overflow:hidden}.p-index-pull2refresh img{width:40px;height:40px;position:absolute;top:0;left:0;right:0;z-index:3}.p-index-pull2refresh i{display:block;width:30px;height:30px;border-radius:50%;background:url(/public/c/page/index/img/bg-refresh_f5fbe76.png) repeat-y center top;position:absolute;top:3px;left:5px;z-index:2}.p-index-anim{-webkit-animation:marquee 1s linear infinite;animation:marquee 1s linear infinite}@keyframes marquee{0%{background-position:center 0}100%{background-position:center -82px}}@-webkit-keyframes marquee{0%{background-position:center 0}100%{background-position:center -82px}}
+.w-guide{display:none}.w-guide-mask{position:fixed;z-index:100;top:0;right:0;bottom:0;left:0;width:100%;height:120%;background-color:rgba(0,0,0,.5)}.w-guide-dialog{width:226px;height:250px;overflow:hidden;position:absolute;top:-20%;right:0;bottom:0;left:0;margin:auto;background-color:#fff}.w-guide-title{color:#00b100;text-align:center;font-size:18px;margin:10px 0 5px}.w-guide-img{text-align:center}.w-guide-img img{width:90%;margin:0 auto}.w-guide-confirm{position:absolute;bottom:0;left:0;right:0;display:block;width:100%;height:40px;font:700 16px/40px Arial;text-align:center;color:#fff;background-color:#00b100;cursor:pointer}
+</style></head>
+    
+    <body class="">
+        <div class="layout" data-pagelet="layout"> 
+            
+    <div class="p-index" id="p-index">
+    <div class="p-index-header">
+        
+        <div class="w-header" data-region='header'>
+    <h1 class="w-header-title">India News</h1>
+    <div class="w-header-toolbar">
+        <a class="w-header-btn" href="javascript:;" data-pos='button' data-label='refresh'>
+            <i class="w-header-refresh"></i>
+        </a>
+        <a class="w-header-btn" href="javascript:;" data-pos='button' data-label='setting'>
+            <i class="w-header-setting"></i>
+        </a>
+    </div>
+    <div class="w-header-popup" data-region='setting'>
+        <div class="w-header-popitem">
+            चित्र दिखाएं <a href="javascript:;" class="w-header-pictureswitch" data-pos='button' data-label='picture-switch'></a>
+        </div>
+        <div class="w-header-popitem">
+            समाचार अधिसूचना <a href="javascript:;" class="w-header-noticeswitch" data-pos='button' data-label='notification-switch'></a>
+        </div>
+    </div>
+</div>
+
+
+        
+        <div class="w-tab" data-region="news">
+    <div class="w-tab-list">
+        
+        <a class="w-tab-btn active" href="/p/index?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-pagelets="layout.list" data-keep-scroll data-pos="tabs" data-label="headline">हेडलाइंस</a>
+        
+        <a class="w-tab-btn " href="/p/index?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw&amp;cat=flicker" data-pagelets="layout.list" data-keep-scroll data-pos="tabs" data-label="flicker">गरमा गरम</a>
+        
+        <a class="w-tab-btn " href="/p/index?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw&amp;cat=indiacricket" data-pagelets="layout.list" data-keep-scroll data-pos="tabs" data-label="indiacricket">क्रिकेट</a>
+        
+        <a class="w-tab-btn " href="/p/index?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw&amp;cat=bollywood" data-pagelets="layout.list" data-keep-scroll data-pos="tabs" data-label="bollywood">बॉलीवुड</a>
+        
+        <a class="w-tab-btn " href="/p/index?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw&amp;cat=constellation" data-pagelets="layout.list" data-keep-scroll data-pos="tabs" data-label="constellation">अध्यात्म</a>
+        
+    </div>
+</div>
+
+
+    </div>
+    <div class="p-index-list" data-region='news'>
+        <div class="w-list" data-pagelet="layout.list">
+<div class="w-list-fragment">
+    
+    
+    
+        
+        
+        
+        
+    
+    
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-l
+
+------------------ [length: 5840 index: 4 cost: 2ms total: 939ms] ------------------
+
+i'
+    data-offset="1442985147121"
+    data-pos="list"
+    data-index="1"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834585&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="बिहार में BJP के स्टार प्रचारकों में आडवाणी, जोशी और शत्रुघ्न भी"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/e73b42547fdf3fbc5eeb9a6d3b0864ab?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="e73b42547fdf3fbc5eeb9a6d3b0864ab" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/032f45da10e2b2c5361ec275465322fa_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">बिहार में BJP के स्टार प्रचारकों में आडवाणी, जोशी और शत्रुघ्न भी</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 5,699</span>
+            <span class="w-li-time" data-ptm="1442984247121"><span class="now">Just now</span></span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442983946570"
+    data-pos="list"
+    data-index="2"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834582&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="बाजार खुलते ही सेंसेक्स 250 अंक लुढ़का"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/638ae7d9a9a68e28afa69c099ec82856?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="638ae7d9a9a68e28afa69c099ec82856" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/cabbf6851c1f1d878fbbbe9a0a64156b_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">बाजार खुलते ही सेंसेक्स 250 अंक लुढ़का</h3>
+        <div class="w-li-meta">
+            
+       
+
+------------------ [length: 2920 index: 5 cost: 4ms total: 943ms] ------------------
+
+     <span class="w-li-view"><i class="w-ico-view"></i> 4,999</span>
+            <span class="w-li-time" data-ptm="1442983046570"><span class="now">Just now</span></span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442981905468"
+    data-pos="list"
+    data-index="3"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834580&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="आरक्षण वाले बयान पर शिवसेना ने किया भागवत का &#39;अभिनंदन&#39;"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/eb8ff78c9a48c5dc92d1e1ca2972b042?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="eb8ff78c9a48c5dc92d1e1ca2972b042" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/1a827ea47c04b52ba13550e6d9eaffec_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">आरक्षण वाले बयान पर शिवसेना ने किया भागवत का &#39;अभिनंदन&#39;</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 6,879</span>
+            <span class="w-li-time" data-ptm="1442981005468">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442981905429"
+    data-pos="list"
+    data-index="4"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834578&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="पुलिस को चकमा देकर भागे हार्दिक पटेल, तीन साथी गिरफ्तार"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/513eeb0db657f3cf59632be7c69fd2cc?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="513eeb0db657f3cf59632be7c69fd2cc" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/42de19ab049e79477e1d67fae06842ce_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">पुलिस को चकमा देकर भागे हार्दिक पटेल, तीन साथी गिरफ्तार</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 13,120</span>
+            <span class="w-li-time" data-ptm="1442981005429">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+        <script type="text/javascript">
+            if (pagetimeline && _uca && ["/", "/p/index"].indexOf(location.pathname)>=0) {
+                // [STAT] 到达率 / 首屏打点（第4条之后）
+                pagetimeline.save('first_screen', function(value){
+                    _uca('event', {
+                        category: 'arrival',
+                        action: 'first_screen',
+                        time: value,
+                        user_init: USER_INIT
+                    })
+                });
+            }
+        </script>
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442981905396"
+    data-pos="list"
+    data-index="5"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834576&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="दिल्ली: बच्ची से जीजा ने किया बलात्कार"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/ce1482a4097d128f693a59232ba433d7?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="ce1482a4097d128f693a59232ba433d7" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/062dbf1377b57595a4fd61a5abb3da85_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">दिल्ली: बच्ची से जीजा ने किया बलात्कार</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 17,626</span>
+            <span class="w-li-time" data-ptm="1442981005396">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442981545221"
+    data-pos="list"
+    data-index="6"
+    data-stat-channel="headline"
+    data-stat-item_type="gallery"
+    data-stat-source="amarujala"
+    data-stat-source_url="http://m.amarujala.com/delhincr/feature/delhi-news-ncr/kejriwal-tweets-somnath-bharti-should-surrender-hindi-news-pt/"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="केजरीवाल का ट्वीटः सरेंडर करें भारती, पार्टी को हो रही शर्मिंदगी"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/bd35ab3796594b71305fcb76bc426c95?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="bd35ab3796594b71305fcb76bc426c95" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/amarujala/thumb/97ba5d06810a7adb6393b2ba8aa0795d_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+                <span class='w-li-album'><i class="w-ico-album"></i> 2</span>
+            
+        </div>
+        
+        <h3 class="w-li-post-title">केजरीवाल का ट्वीटः सरेंडर करें भारती, पार्टी को हो रही शर्मिंदगी</h3>
+        <div class="w-li-meta">
+ 
+
+------------------ [length: 7300 index: 6 cost: 4ms total: 947ms] ------------------
+
+           
+            <span class="w-li-view"><i class="w-ico-view"></i> 5,938</span>
+            <span class="w-li-time" data-ptm="1442980645221">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980464752"
+    data-pos="list"
+    data-index="7"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834573&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="मोदी के US दौरे से भारत को ये 10 उम्मीदें"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/1cd8afec6d3ca38591d33ac2c9866be2?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="1cd8afec6d3ca38591d33ac2c9866be2" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/c79f15f511d5d61e3fd1a8bd44b3ea0e_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">मोदी के US दौरे से 
+
+------------------ [length: 1460 index: 7 cost: 268ms total: 1215ms] ------------------
+
+भारत को ये 10 उम्मीदें</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 10,415</span>
+            <span class="w-li-time" data-ptm="1442979564752">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980344639"
+    data-pos="list"
+    data-index="8"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834571&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="कॉलेज ने जारी किया फरमान, ये 22 चीजें न करें लड़कियां"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/5676bbaeee4cbb443f6b2891f32aaf08?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="5676bbaeee4cbb443f6b2891f32aaf08" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/ed2326b3470dfb5be2f896020d56858d_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+
+------------------ [length: 1460 index: 8 cost: 1ms total: 1216ms] ------------------
+
+
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">कॉलेज ने जारी किया फरमान, ये 22 चीजें न करें लड़कियां</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 16,808</span>
+            <span class="w-li-time" data-ptm="1442979444639">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980344591"
+    data-pos="list"
+    data-index="9"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834572&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="वसुंधरा सरकार ने आर्थिक रूप से पिछड़ों को 14% आरक्षण दिया"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/8ae99979df1c0c4fb4bbe51397ee1785?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="8ae99979df1c0c4fb4bbe51397ee1785" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/a
+
+------------------ [length: 1460 index: 9 cost: 1ms total: 1217ms] ------------------
+
+ajtak/thumb/b467f9bd4f576b9789b614286a4e54fe_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">वसुंधरा सरकार ने आर्थिक रूप से पिछड़ों को 14% आरक्षण दिया</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 6,556</span>
+            <span class="w-li-time" data-ptm="1442979444591">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980344539"
+    data-pos="list"
+    data-index="10"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834574&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="अरविंद केजरीवाल बोले- श‍र्मिंदा न करें सोमनाथ भारती, सरेंडर कर दें"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/646bfc0a85d2c1a391b0b9e0b91661d9?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputog
+
+------------------ [length: 1460 index: 10 cost: 1ms total: 1218ms] ------------------
+
+gdnw" data-id="646bfc0a85d2c1a391b0b9e0b91661d9" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/2e7f87b9b38fcae767137b0f59c21141_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">अरविंद केजरीवाल बोले- श‍र्मिंदा न करें सोमनाथ भारती, सरेंडर कर दें</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 7,545</span>
+            <span class="w-li-time" data-ptm="1442979444539">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980344502"
+    data-pos="list"
+    data-index="11"
+    data-stat-channel="headline"
+    data-stat-item_type="news"
+    data-stat-source="aajtak"
+    data-stat-source_url="http://m.aajtak.in/story.jsp?sid=834570&amp;secid=13"
+    data-stat-category-first="0"
+    data-stat-category-second=""
+    data-stat-title="अमित शाह बोले- वर्तमान आर��
+
+------------------ [length: 1460 index: 11 cost: 1ms total: 1219ms] ------------------
+
+�्षण व्यवस्था पर पुनर्विचार नहीं होगा"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/3243da2271a134c481b204d7657bfe48?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="3243da2271a134c481b204d7657bfe48" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/aajtak/thumb/aaf376492a5f50bc82b8ddf0809d728a_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+        </div>
+        
+        <h3 class="w-li-post-title">अमित शाह बोले- वर्तमान आरक्षण व्यवस्था पर पुनर्विचार नहीं होगा</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 5,635</span>
+            <span class="w-li-time" data-ptm="1442979444502">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442980224389"
+    data-pos="list"
+    data-index="12"
+    data-stat-channel="headline"
+    data-stat-item_type="gallery"
+    data-stat-source="amaruja
+
+------------------ [length: 1460 index: 12 cost: 1ms total: 1220ms] ------------------
+
+la"
+    data-stat-source_url="http://m.amarujala.com/feature/astrology/horoscope/daily-love-astrology-23-september-hindi-rj/"
+    data-stat-category-first="5"
+    data-stat-category-second="502"
+    data-stat-title="स‌ितारे कहते हैं एक तरफा प्यार से आज इनकी बात ब‌िगड़ सकती है"
+    
+>
+    
+    <a class="w-li-gallery" href="/p/detail/245ba7faf70d08f8cd1ce1ab75fa7070?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="245ba7faf70d08f8cd1ce1ab75fa7070" data-label='image-mixture' data-pagelets=layout >
+        <h3 class="w-li-gallery-title">स‌ितारे कहते हैं एक तरफा प्यार से आज इनकी बात ब‌िगड़ सकती है</h3>
+        <ul class="w-li-gallery-cover">
+        
+            
+                <li>
+                
+                    <img src="http://img.ucweb.com/s/ucp/g/news/amarujala/thumb/a347c4b50ca8a0a46020b6b7d5a7bf12_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg" />
+                
+                </li>
+            
+        
+            
+                <li>
+                
+                    <img src="http://img.ucweb.com/s/ucp/g/news/amarujala/thumb/f67803add9920165bc637f0568f48946_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg"
+
+------------------ [length: 1460 index: 13 cost: 2ms total: 1222ms] ------------------
+
+ />
+                
+                </li>
+            
+        
+            
+                <li>
+                
+                    <img src="http://img.ucweb.com/s/ucp/g/news/amarujala/thumb/968005582a0b0744e33568c60477cf61_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg" />
+                
+                </li>
+            
+        
+            
+        
+        </ul>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 11,645</span>
+            <span class="w-li-time" data-ptm="1442979324389">1 hour</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442979624103"
+    data-pos="list"
+    data-index="13"
+    data-stat-channel="headline"
+    data-stat-item_type="gallery"
+    data-stat-source="bhaskar"
+    data-stat-source_url="http://m.bhaskar.com/news-wfli/flicker/7670/JOK-HAS-latest-hindi-sms-comedy-jokes-cartoons-pics-fun-5120856-PHO.html"
+    data-stat-category-first="4"
+    data-stat-category-second=""
+    data-stat-title="FUNNY: BIKE योगा के साथ मजेदार आसन, इन्हें कभी न आजमाएं"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/a61b83b4231bd7e4e3f8d5b6bcebcd5c?uc_param_str=dnfrpfb
+
+------------------ [length: 1460 index: 14 cost: 1ms total: 1223ms] ------------------
+
+ivesscpgimibtbmntnisieijblauputoggdnw" data-id="a61b83b4231bd7e4e3f8d5b6bcebcd5c" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/hbaskar/thumb/d6e06809947e3ed30e600ec18956e65e_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+                <span class='w-li-album'><i class="w-ico-album"></i> 7</span>
+            
+        </div>
+        
+        <h3 class="w-li-post-title">FUNNY: BIKE योगा के साथ मजेदार आसन, इन्हें कभी न आजमाएं</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 9,274</span>
+            <span class="w-li-time" data-ptm="1442978724103">2 hours</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+    
+        
+    
+<section class='w-li'
+    data-offset="1442979503988"
+    data-pos="list"
+    data-index="14"
+    data-stat-channel="headline"
+    data-stat-item_type="gallery"
+    data-stat-source="bhaskar"
+    data-stat-source_url="http://m.bhaskar.com/news-wfli/flicker/9867/JM-JYO-RAN-ganesh-chaturthi-2015-know-your-question-s-answers-by-this-in
+
+------------------ [length: 1460 index: 15 cost: 5ms total: 1228ms] ------------------
+
+strument-s-64-digit-5120801-.html"
+    data-stat-category-first="4"
+    data-stat-category-second=""
+    data-stat-title="इस यंत्र के 64 अंकों से जानिए अपने सवालों के जवाब"
+    
+>
+    
+    <a class="w-li-post" href="/p/detail/a8d3a1c9ec043007fb52e3568dbe75ef?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="a8d3a1c9ec043007fb52e3568dbe75ef" data-label='image-single' data-pagelets=layout >
+        
+        <div class="w-li-post-cover">
+            
+                <img src="http://img.ucweb.com/s/ucp/g/news/hbaskar/thumb/ae6749e469e77598250330b05ddb5f2f_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" onerror="this.src=this.src;" class="g-ctimg" />
+            
+            
+                <span class='w-li-album'><i class="w-ico-album"></i> 7</span>
+            
+        </div>
+        
+        <h3 class="w-li-post-title">इस यंत्र के 64 अंकों से जानिए अपने सवालों के जवाब</h3>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 12,270</span>
+            <span class="w-li-time" data-ptm="1442978603988">2 hours</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+
+        
+            
+        
+
+        
+        
+            
+            
+        
+
+        
+
+
+
+
+
+    
+
+
+
+    
+
+------------------ [length: 1460 index: 16 cost: 1ms total: 1229ms] ------------------
+
+
+    
+        
+    
+<section class='w-li'
+    data-offset="1442979503952"
+    data-pos="list"
+    data-index="15"
+    data-stat-channel="headline"
+    data-stat-item_type="gallery"
+    data-stat-source="bhaskar"
+    data-stat-source_url="http://m.bhaskar.com/news-wfli/flicker/10327/SPL-BIHEL-DADO-funny-cartoons-about-bihar-election-2015-5121434-PHO.html"
+    data-stat-category-first="4"
+    data-stat-category-second=""
+    data-stat-title="10 FUNNY CARTOONS से समझें बिहार की राजनीति को, ये क्या कहते हैं"
+    
+>
+    
+    <a class="w-li-gallery" href="/p/detail/1bce68643f7f956696a76ae09bafbb25?uc_param_str=dnfrpfbivesscpgimibtbmntnisieijblauputoggdnw" data-id="1bce68643f7f956696a76ae09bafbb25" data-label='image-mixture' data-pagelets=layout >
+        <h3 class="w-li-gallery-title">10 FUNNY CARTOONS से समझें बिहार की राजनीति को, ये क्या कहते हैं</h3>
+        <ul class="w-li-gallery-cover">
+        
+            
+                <li>
+                
+                    <img src="http://img.ucweb.com/s/ucp/g/news/hbaskar/thumb/75883961991eb7629ba8109d78625be3_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg" />
+                
+                </li>
+            
+        
+            
+                <li>
+                
+                    <img src
+
+------------------ [length: 1460 index: 17 cost: 1ms total: 1230ms] ------------------
+
+="http://img.ucweb.com/s/ucp/g/news/hbaskar/thumb/dff5de60802fee82705a56d9dcb8a57d_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg" />
+                
+                </li>
+            
+        
+            
+                <li>
+                
+                    <img src="http://img.ucweb.com/s/ucp/g/news/hbaskar/thumb/beaf1079db6f7364e8e5c3a545d19b88_thumb" data-src="/public/c/widget/li/img/default-cover_05ced15.png" data-show-pic="1" class="g-ctimg" />
+                
+                </li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        </ul>
+        <div class="w-li-meta">
+            
+            <span class="w-li-view"><i class="w-ico-view"></i> 11,090</span>
+            <span class="w-li-time" data-ptm="1442978603952">2 hours</span>
+        </div>
+    </a>
+    
+</section>
+
+
+
+
+        
+    
+</div>
+</div>
+
+
+    </div>
+    <div class="p-index-more">
+        <span></span> लोडिंग ···
+    </div>
+</div>
+<div class="p-index-top"></div>
+<div class="p-index-pull2refresh" id="p-index-pull2refresh">
+    <div>
+        <i></i>
+        <img src="/public/c/page/index/img/ico-refreshing_6053793.png">
+    </div>
+</div>
+<div class="w-notice"></div>
+
+
+
+
+        </div>
+        <script type="text/javascript">
+            // [STAT] 到达率 / 页�
+
+------------------ [length: 1460 index: 18 cost: 3ms total: 1233ms] ------------------
+
+��内容加载完成打点
+            pagetimeline.save('footer', function(value){
+                _uca('event', {
+                    category: 'arrival',
+                    action: 'footer',
+                    time: value,
+                    user_init: USER_INIT
+                })
+            });
+            ua('send');
+        </script>
+        
+        
+        <div class="w-progress">
+    <div class="w-progress-inner">
+        <div class="w-progress-loading"></div>
+        <div class="w-progress-text">loading</div>
+    </div>
+</div>
+
+
+        
+        
+    <script src="/co??v/lib/pagelet_494d978.js,v/lib/pagecache_a208ffb.js,v/lib/zepto_b7016d3.js,v/lib/md_a869e6c.js,c/util/cookie/cookie_8390e2a.js,c/util/envi/envi_f407d78.js,c/util/uc/uc_7cd54a2.js,c/util/tool/tool_8380e88.js,c/util/setting/setting_adec6e1.js,c/widget/notice/notice_eaa2832.js,c/util/stat/stat_088adf6.js,c/widget/list/list_eee38fa.js,c/widget/header/header_38306e6.js,c/widget/progress/progress_15adaaf.js,c/widget/tab/tab_b6cdb08.js,c/page/index/index_d5c1055.js,c/widget/guide/guide_e2dbbbc.js,c/util/pfm/pfm_a7137a7.js,v/layout/layout_4ab3019.js"></script>
+<script>pagelet.init(1,"/co??%s",["v/lib/pagelet_494d978.js","v/lib/pagecache_a208ffb.js","v/lib/zepto_b7016d3.js","v/lib/md_a869e6c.js","c/util/cookie/cookie_8390e2a.js","c/util/envi/envi_f407d78.js","c/util/uc/uc_7cd54a2.js","c/util/tool/tool_8380e88.js","c/util/setting/setting_adec6e1.js","c/widget/notice/notice_eaa2832.js","c/util/stat/stat_088adf6.js","c/widget/list/list_eee38fa.js","c/widget/header/header_38306e6.js","c/widget/progress/progress_15adaaf.js","c/widget/tab/tab_b6cdb08.js","c/page/index/index_d5c1055.js","c/widget/guide/guide_e2dbbbc.js","c/util/pfm/pfm_a7137a7.js","v/layout/layout_4ab3019.js","v/layout/layout_d0c801d.css","c/widget/notice/notice_bb66eed.css","c/widget/list/list_2048ba0.css","c/widget/header/header_17e734f.css","c/widget/progress/progress_e5d097d.css","c/widget/tab/tab_d0daa6e.css","c/widget/iconset/iconset_95ab847.css","c/widget/li/li_42e3dbe.css","c/page/index/index_2223ac9.css","c/widget/guide/guide_77973d0.css"],"3553d6a");</script>
+<script>!function(){
+            // [STAT] 到达率 / combo js 加载完成打点
+            pagetimeline.save('js_load', function(value){
+                _uca('event', {
+                    category: 'arrival',
+                    action: 'js_load',
+                    time: value,
+                    user_init: USER_INIT
+                })
+            })
+            // 监听页面点击事件，自动加载pagelet
+            pagelet.autoload('layout');
+        }();!function(){
+    require('components/widget/header/header.js')
+}();!function(){
+require('components/widget/tab/tab.js');
+}();!function(){
+    require('components/widget/list/list.js')
+}();!function(){ require('components/page/index/index.js'); }();!function(){
+    require('widget/progress');
+}();</script>
+</
+
+------------------ [length: 2920 index: 19 cost: 11ms total: 1244ms] ------------------
+
+body>
+    <script>var setting=require("util/setting"),stat=require("util/stat"),pfm=require("util/pfm");pfm.init(_START_TIME?_START_TIME:0),pfm.get(function(e){e&&(e.category="performance",stat.event(e))}),stat.listen(),pagetimeline.save("js_exec",function(e){stat.event({category:"arrival",action:"js_exec",time:e,user_init:USER_INIT})}).collect(),pagelet&&pagelet.on(pagelet.EVENT_GO_COMPLETED,function(){pagetimeline.collect()}),pagelet&&pagelet.on(pagelet.EVENT_LOAD_COMPLETED,function(e){e&&e.fromCache&&stat.pageview({action:"pagecache"}),e&&!e.fromCache&&e.options&&/p\/index/.test(e.options.url)&&/p\/index/.test(e.options.prevUrl)&&!/_pos/.test(e.options.url)&&stat.pageview({action:"tab_switch"})});var albumIsFullscreen=!1;$(document.body).on("album:fullscreen",function(e,t){var a=e.target.nodeName.toLowerCase(),n="img"==a?"image":"button";albumIsFullscreen=t,stat.click({region:"gallery",pos:n,label:t?"enter-fullscreen":"leave-fullscreen"}),stat.event({category:"gallery",action:t?"entry":"leave",full_screen:t,image_model:setting.getPicState()?"show":"hide"})}),$(document.body).on("album:switch",function(e,t,a){stat.event({category:"gallery",action:a,index:t+1,full_screen:albumIsFullscreen,image_model:setting.getPicState()?"show":"hide"}),stat.pageview({action:"album_switch"})}),$(document.body).on("click",".w-article-pagenav a",function(){stat.pageview({action:"page_switch"})});var depth=0,maxDepth=0;pagelet.on(pagelet.EVENT_LOAD_COMPLETED,function(e){var t=e.options||{};/\/p\/detail/.test(t.url)&&(depth+=t.isBack?-1:1,depth>maxDepth&&(maxDepth=depth)),/\/p\/index/.test(t.url)&&maxDepth&&(stat.event({category:"recommendation",action:"click",label:"reading-depth",depth:maxDepth}),maxDepth=0,depth=0)}),$(document.body).on("header:togglepicture",function(e,t){stat.event({category:"switch",action:t?"on":"off",label:"picture"})}),$(document.body).on("header:togglenotice",function(e,t){stat.event({category:"switch",action:t?"on":"off",label:"notice"})});var refreshStartTime,lastRefreshTime=+new Date;$(document.body).on("header:refresh_start",function(){refreshStartTime=+new Date}),$(document.body).on("header:refresh_end",function(e,t){t&&stat.event({category:"loading",action:"refresh",label:"righttop",channel:t.channel,image:setting.getPicState()?"on":"off",refreshInterval:+new Date-lastRefreshTime,availableData:t.total,timeCost:+new Date-refreshStartTime}),lastRefreshTime=+new Date}),$(document.body).on("index:pullrefresh_start",function(){refreshStartTime=+new Date}),$(document.body).on("index:pullrefresh_end",function(e,t){t&&stat.event({category:"loading",action:"pull",label:"top",channel:t.channel,image:setting.getPicState()?"on":"off",refreshInterval:+new Date-lastRefreshTime,availableData:t.total,timeCost:+new Date-refreshStartTime}),lastRefreshTime=+new Date});var loadmoreStartTime;$(document.body).on("list:loadmore_start",function(){loadmoreStartTime=+new Date}),$(document.body).on("list:loadmore_end",function(e,t){t&&stat.event({category:"loading",action:"push",label:"bottom",channel:t.channel,image:setting.getPicState()?"on":"off",timeCost:+new Date-loadmoreStartTime})});var loadmoreDepth=0,activeChannel=setting.getChannelByUrl(),statLoadmoreDepth=function(e){e=e||activeChannel,stat.event({category:"loading",action:"push",label:"depth",channel:e,depth:loadmoreDepth}),loadmoreDepth=0},refreshCount=0,statRefreshCount=function(e){e=e||activeChannel,stat.event({category:"loading",action:"pull",label:"count",channel:e,count:refreshCount}),refreshCount=0};$(document.body).on("list:loadmore_end",function(){loadmoreDepth++}),$(document.body).on("header:refresh_end",function(){statLoadmoreDepth()}),$(document.body).on("index:pullrefresh_end",function(){statLoadmoreDepth(),refreshCount++}),$(document.body).on("tab:switch",function(e,t,a){activeChannel=a,statLoadmoreDepth(t),statRefreshCount(t)}),$(document.body).on("detail:navi_home",function(){statLoadmoreDepth(activeChannel),statRefreshCount(activeChannel),activeChannel="headline"}),window.onerror=function(e,t,a){stat&&stat.event({category:"error",errorMessage:e,scriptURI:t,lineNumber:a})},$(document.body).on("tab:swipe",function(e,t){var a=t>0?"right":"left";stat.event({category:"tab",action:"swipe",direction:a})});var scrollTimer,scrollStated=!1,scrollHotStated=!1,scrollGuideStated=!1;if($(window).on("scroll",function(){clearTimeout(scrollTimer),scrollTimer=setTimeout(function(){var e=$(window).height(),t=$(".p-detail"),a=$(".p-detail-more").get(0);if(a){var n=a.getBoundingClientRect();n.top<e-130&&!scrollStated&&t&&(stat.event({category:"appear",action:"morenews",channel:t.data("channel"),categoryFirst:t.data("categoryFirst"),categorySecond:t.data("categorySecond")}),scrollStated=!0)}var o=$(".p-detail-hot").get(0);if(o){var r=o.getBoundingClientRect();r.top<e-130&&!scrollHotStated&&t&&(stat.event({category:"appear",action:"hotnews",channel:t.data("channel"),categoryFirst:t.data("categoryFirst"),categorySecond:t.data("categorySecond")}),scrollHotStated=!0)}var i=$(".p-detail-guide").get(0);if(i){var l=i.getBoundingClientRect();l.top<e-130&&!scrollGuideStated&&(stat.event({category:"appear",action:"spdguide"}),scrollGuideStated=!0)}},50)}),pagelet.on(pagelet.EVENT_LOAD_COMPLETED,function(e){e&&e.options&&!e.options.isBack&&/p\/detail/.test(e.options.url)&&(scrollStated=!1,scrollHotStated=!1,scrollGuideStated=!1)}),/p\/detail/.test(location.href))var stayStartTime=+new Date;pagelet.on(pagelet.EVENT_LOAD_COMPLETED,function(e){if(e&&e.options){var t=e.options.prevUrl,a=e.options.url;/p\/detail/.test(t)&&stat.event({category:"time",action:"browser",time:Math.floor((+new Date-stayStartTime)/1e3),url:t}),/p\/detail/.test(a)&&(stayStartTime=+new Date)}}),pagelet.on(pagelet.EVENT_LOAD_ERROR,function(e){e&&"user_abort"==e.error&&!e.action&&stat.event({category:"loading",action:"abort",url:location.href})}),pagelet.on(pagelet.EVENT_BEFORE_LOAD,function(){var e=window.localStorage;e.setItem("newsweb_pagelet",+new Date)}),pagelet.on(pagelet.EVENT_LOAD_COMPLETED,function(e){var t=window.localStorage;if(t&&t.getItem("newsweb_pagelet")){var a=+new Date-t.getItem("newsweb_pagelet");stat.event({category:"loading",action:"pageletDone",cost:a,url:e.options.url}),t.removeItem("newsweb_pagelet")}}),$(function(){var e=window.localStorage;e&&e.getItem("newsweb_pagelet")&&(stat.event({category:"loading",action:"pageletInterrupt"}),e.removeItem("newsweb_pagelet"))});</script>
+    <script>!function(e){var t=require("util/setting");e.onUCWebviewSet=function(e){switch(e){case"showpic":t.togglePicState();break;case"notice":t.toggleNoticeState()}}}(window);</script>
+    
+</html>
+
+
+------------------ [length: 6625 index: 20 cost: 265ms total: 1509ms] ------------------
+

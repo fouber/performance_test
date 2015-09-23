@@ -1,0 +1,1806 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="http://img.ucweb.com">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="http://files.music.uodoo.com/s/uae/g/0z/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    
+    <!-- 忽略页面中的数字识别为电话，忽略email识别 -->
+    <meta name="format-detection" content="telphone=no, email=no" />
+    <meta name="HandheldFriendly" content="true">
+
+    <script type="text/javascript">
+    var pageRealTime = (new Date()).valueOf()
+
+    /* 做前端性能统计，首屏加载时间的依赖变量 */
+    __STARTTIME = +new Date
+    </script>
+
+    <!-- title需要使用title标签包裹起来 -->
+    
+    <title>Hindi & bollywood songs free download-Yolosong.com</title>
+
+
+    <!-- 引用静态资源，替代script、link标签 -->
+    
+    
+    
+    
+    
+
+
+    
+
+
+    
+    
+    
+    
+  <style>/*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number
+
+------------------ [length: 2472 index: 0 cost: 810ms total: 810ms] ------------------
+
+]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+html,body,span,div,p,a,table,tbody,td,h1,h2,h3,img,form,font,strong,b,i,dl,dt,dd,ol,ul,li,dl,dd,dt,iframe,label,blockquote,input,button{padding:0;margin:0;list-style:none}body{line-height:1.4em;font-size:12px;font-family:"Helvetica Neue","Microsoft Yahei",sans-serif;color:#bababa}img{vertical-align:middle;border:0}header,nav,footer,section,article{display:block}a{color:#888;text-decoration:none}.clearfix:after{visibility:hidden;display:block;font-size:0;content:"";clear:both;height:0}.clearfix{zoom:1}.mb_10{margin-bottom:10px}.mb_20{margin-bottom:20px}.pb_10{padding-bottom:10px}.pb_20{padding-bottom:20px}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}.txt-capitalize{text-transform:Capitalize}@-webkit-keyframes rotate{from{-webkit-transform:rotate(0deg)}to{-webkit-transform:rotate(360deg)}}@keyframes rotate{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}.anim-rotate{animation:rotate 1s infinite linear;-webkit-animation:rotate 1s infinite linear}.supertag:after{content:"Super Exclusive";display:inline-block;margin-left:5px;padding:0 4px;font-size:10px;line-height:14px;color:#fff;border-radius:1px;background:#51bb72}.firsttag:after{content:"First On Net";display:inline-block;margin-left:5px;padding:0 4px;font-size:10px;line-height:14px;color:#fff;border-radius:1px;background:#ed7155}.newtag:after{content:"NEW";display:inline-block;margin-left:5px;padding:0 4px;font-size:10px;line-height:14px;color:#fff;border-radius:1px;background:#ffb43d}.hot,.new,.solo{position:relative}.hot:before,.new:before,.solo:before{content:"";position:absolute;left:0;top:0;display:block;z-index:10}.hot:before{width:24px;height:24px}.new:before{width:30px;height:30px}.solo:before{width:23px;height:24px}.txt-cut{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.nextPageLink{display:none}
+.after-center{position:relative}.after-center:after{content:"";margin:auto;left:0;top:0;right:0;bottom:0;position:absolute;display:block}.after-center>img{position:relative;z-index:1}.G-loadingBox p,.G-loadingBoxPart p,.loading-logo:after{background-repeat: no-repeat;}.search-btn-img{position:relative;background-repeat: no-repeat;}.cancel:after{width:16px;height:16px;background-repeat: no-repeat;}.small-placeholder-img:after{height:30px;width:30px;background-repeat: no-repeat;}.float_backtop-icon-img{background-repeat: no-repeat;}.icon-no-content{background:url(/public/v/css_sprite/images/icon_no_content_b854a33.png);background-size:70px 70px}.main-header-logo-img{background-repeat: no-repeat;}.usercenter-icon{width:19px;height:19px;background-repeat: no-repeat;}.logoPart .user-quest>i{background-repeat: no-repeat;}.logoPart .site-share>i{background-repeat: no-repeat;}.main-search-btn-img{background-repeat: no-repeat;}.bottom-logo-icon{background-repeat: no-repeat;}.bigarrow{background-repeat: no-repeat;}.home{background-repeat: no-repeat;}.alldownload-icon{background-repeat: no-repeat;}.list-arrow{background-repeat: no-repeat;}.back-btn{background-repeat: no-repeat;}.back-btn-gray{background-repeat: no-repeat;}.associativebtn:after{background-repeat: no-repeat;}.hotorder:first-child .hotdownload i{background-repeat: no-repeat;}.hotorder:nth-child(2) .hotdownload i{background-repeat: no-repeat;}.hotorder:nth-child(3) .hotdownload i{background-repeat: no-repeat;}.album-item .hotdownload i,.playlistItem .hotdownload i{background-repeat: no-repeat;}.hotorder:first-child .after-center:before{background-repeat: no-repeat;}.hotorder:nth-child(2) .after-center:before{background-repeat: no-repeat;}.hotorder:nth-child(3) .after-center:before{background-repeat: no-repeat;}.icon-clock:after{background-repeat: no-repeat;}.icon-cross{background-repeat: no-repeat;}.musicItem-wrap .download-count>span:before{background-repeat: no-repeat;}.search-history >.delete-all>span:before{background-repeat: no-repeat;}.musicplaybtn{background:url(./images/mplay.png?__sprite) no-repeat;background-size:20px 20px}.musicfavoritebtn:after{width:21px;height:18px;background-repeat: no-repeat;}.musicfavoritebtn.active:after{background:url(./images/mfavorite_on.png?__sprite) no-repeat;background-size:21px 18px;width:21px;height:18px}.musicartistbtn:after{width:17px;height:20px;background-repeat: no-repeat;}.musicalbumbtn{background:url(./images/malbum.png?__sprite) no-repeat;background-size:20px 20px}.download-btn-img{background-repeat: no-repeat;}.order-music-item .play-state:after{width:10px;height:12px;background-repeat: no-repeat;}.order-music-item .play-state.load:after{width:10px;height:12px;background-repeat: no-repeat;}.player-bottom .btn.play{background-repeat: no-repeat;}.player-bottom .btn.next{background-repeat: no-repeat;}.player-bottom .btn.pause{background-repeat: no-repeat;}.slide-banner .arrow.left em{background-repeat: no-repeat;}.slide-banner .arrow.right em{background-repeat: no-repeat;}.change-btn:after{background-repeat: no-repeat;}.singer-row .rank-icon.rank_1{background-repeat: no-repeat;}.singer-row .rank-icon.rank_2{background-repeat: no-repeat;}.singer-row .rank-icon.rank_3{background-repeat: no-repeat;}.singer-row .rank-icon.rank_4{background-repeat: no-repeat;}.singer-row .rank-icon.rank_5{background-repeat: no-repeat;}.singer-row .rank-icon.rank_6{background-repeat: no-repeat;}.inner-share-btn i{background-repeat: no-repeat;}.favor-btn i{background-repeat: no-repeat;}.favor-btn.favorite i{background-repeat: no-repeat;}.collect i{background-repeat: no-repeat;}.nocollect i{background-repeat: no-repeat;}.popup .text:before{background-repeat: no-repeat;}.panel-sub-func>.item.top-chart:before{background-repeat: no-repeat;}.panel-sub-func>.item.category:before{background-repeat: no-repeat;}.panel-sub-func>.item.artists:before{background-repeat: no-repeat;}.panel-sub-func>.item.ring-popular:before{background-repeat: no-repeat;}.panel-sub-func>.item.ring-category:before{background-repeat: no-repeat;}.panel-sub-func>.item.ring-recent:before{background-repeat: no-repeat;}.panel-sub-func>.item.dj:before{background-repeat: no-repeat;}.speciallist i{background-repeat: no-repeat;}.white-downloadicon{background-repeat: no-repeat;}.bottom-logo-icon{background-position:0px 0px}.G-loadingBox p,.G-loadingBoxPart p,.loading-logo:after{background-position:-55px 0px}.player-bottom .btn.pause{background-position:0px -55px}.player-bottom .btn.next{background-position:-41px -55px}.player-bottom .btn.play{background-position:-100px 0px}.small-placeholder-img:after{background-position:-100px -41px}.main-header-logo-img{background-position:0px -96px}.download-btn-img{background-position:-30px -96px}.slide-banner .arrow.right em{background-position:-60px -96px}.slide-banner .arrow.left em{background-position:-80px -96px}.musicartistbtn:after{background-position:-100px -96px}.bigarrow{background-position:-82px -55px}.panel-sub-func>.item.top-chart:before{background-position:-141px 0px}.panel-sub-func>.item.ring-recent:before{background-position:-141px -25px}.panel-sub-func>.item.dj:before{background-position:-141px -50px}.panel-sub-func>.item.ring-category:before{background-position:-141px -75px}.panel-sub-func>.item.ring-popular:before{background-position:-141px -100px}.panel-sub-func>.item.artists:before{background-position:0px -126px}.panel-sub-func>.item.category:before{background-position:-25px -126px}.musicfavoritebtn:after{background-position:-50px -126px}.hotorder:first-child .after-center:before{background-position:-76px -126px}.hotorder:nth-child(3) .after-center:before{background-position:-100px -126px}.back-btn{background-position:-122px -96px}.usercenter-icon{background-position:-124px -126px}.logoPart .user-quest>i{background-position:-166px 0px}.hotorder:nth-child(2) .after-center:before{background-position:-166px -24px}.back-btn-gray{background-position:-166px -48px}.logoPart .site-share>i{background-position:-166px -72px}.home{background-position:-166px -96px}.search-btn-img{background-position:-166px -119px}.float_backtop-icon-img{background-position:0px -151px}.singer-row .rank-icon.rank_3{background-position:-148px -126px}.singer-row .rank-icon.rank_6{background-position:-21px -151px}.singer-row .rank-icon.rank_5{background-position:-39px -151px}.singer-row .rank-icon.rank_4{background-position:-57px -151px}.singer-row .rank-icon.rank_2{background-position:-75px -151px}.singer-row .rank-icon.rank_1{background-position:-93px -151px}.cancel:after{background-position:-111px -151px}.inner-share-btn i{background-position:-132px -151px}.nocollect i{background-position:-100px -76px}.change-btn:after{background-position:-118px -76px}.collect i{background-position:-153px -151px}.main-search-btn-img{background-position:-171px -151px}.popup .text:before{background-position:-190px 0px}.icon-clock:after{background-position:-190px -17px}.speciallist i{background-position:0px -174px}.order-music-item .play-state.load:after{background-position:-190px -34px}.search-history >.delete-all>span:before{background-position:-190px -51px}.order-music-item .play-state:after{background-position:-190px -68px}.favor-btn i{background-position:-22px -174px}.alldownload-icon{background-position:-190px -85px}.favor-btn.favorite i{background-position:-41px -174px}.list-arrow{background-position:-190px -101px}.hotorder:nth-child(2) .hotdownload i{background-position:-190px -116px}.hotorder:first-child .hotdownload i{background-position:-190px -129px}.album-item .hotdownload i,.playlistItem .hotdownload i{background-position:-190px -142px}.icon-cross{background-position:-190px -155px}.associativebtn:after{background-position:-82px -80px}.hotorder:nth-child(3) .hotdownload i{background-position:-60px -174px}.white-downloadicon{background-position:-71px -174px}.musicItem-wrap .download-count>span:before{background-position:-81px -174px}.bottom-logo-icon,.G-loadingBox p,.G-loadingBoxPart p,.loading-logo:after,.player-bottom .btn.pause,.player-bottom .btn.next,.player-bottom .btn.play,.small-placeholder-img:after,.main-header-logo-img,.download-btn-img,.slide-banner .arrow.right em,.slide-banner .arrow.left em,.musicartistbtn:after,.bigarrow,.panel-sub-func>.item.top-chart:before,.panel-sub-func>.item.ring-recent:before,.panel-sub-func>.item.dj:before,.panel-sub-func>.item.ring-category:before,.panel-sub-func>.item.ring-popular:before,.panel-sub-func>.item.artists:before,.panel-sub-func>.item.category:before,.musicfavoritebtn:after,.hotorder:first-child .after-center:before,.hotorder:nth-child(3) .after-center:before,.back-btn,.usercenter-icon,.logoPart .user-quest>i,.hotorder:nth-child(2) .after-center:before,.back-btn-gray,.logoPart .site-share>i{background-size: 207px 186px;background-image: url(/public/v/css_sprite/new_css_sprite_0.5_z_f3c928c.png)}.home,.search-btn-img,.float_backtop-icon-img,.singer-row .rank-icon.rank_3,.singer-row .rank-icon.rank_6,
+
+------------------ [length: 11414 index: 1 cost: 12ms total: 822ms] ------------------
+
+.singer-row .rank-icon.rank_5,.singer-row .rank-icon.rank_4,.singer-row .rank-icon.rank_2,.singer-row .rank-icon.rank_1,.cancel:after,.inner-share-btn i,.nocollect i,.change-btn:after,.collect i,.main-search-btn-img,.popup .text:before,.icon-clock:after,.speciallist i,.order-music-item .play-state.load:after,.search-history >.delete-all>span:before,.order-music-item .play-state:after,.favor-btn i,.alldownload-icon,.favor-btn.favorite i,.list-arrow,.hotorder:nth-child(2) .hotdownload i,.hotorder:first-child .hotdownload i,.album-item .hotdownload i,.playlistItem .hotdownload i,.icon-cross{background-size: 207px 186px;background-image: url(/public/v/css_sprite/new_css_sprite_0.5_z_f3c928c.png)}.associativebtn:after,.hotorder:nth-child(3) .hotdownload i,.white-downloadicon,.musicItem-wrap .download-count>span:before{background-size: 207px 186px;background-image: url(/public/v/css_sprite/new_css_sprite_0.5_z_f3c928c.png)}
+.G-loadingCover{height:200%;width:100%;position:fixed;top:0;left:0;z-index:99999}.G-loadingBox,.G-loadingBoxPart{top:50%;left:50%;width:80px;height:76px;margin:-38px 0 0 -40px;background:rgba(255,255,255,.8);border-radius:5px;box-shadow:rgba(0,0,0,.15) 0 0 6px;display:none;position:fixed;z-index:22}.G-loadingBox:after,.G-loadingBoxPart:after{content:attr(data-tip);font-size:12px;position:absolute;bottom:2px;left:17px;color:#666}.G-loadingBoxPart{position:absolute}.G-loadingBox p,.G-loadingBoxPart p{top:12px;left:20px;width
+
+------------------ [length: 1460 index: 2 cost: 260ms total: 1082ms] ------------------
+
+:40px;height:40px;position:absolute;display:-webkit-box;background-color:rgba(0,0,0,0)!important;border:0!important}.G-loadingBoxShow{display:block}@-webkit-keyframes roll{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}.G-loadingBoxShow p{-webkit-animation:roll .6s infinite linear}
+.toast .toast-cover{position:fixed;z-index:99999;top:0;left:0;height:200%;width:100%;background:rgba(0,0,0,.5)}.toast .toast-box{background:#fff;width:70%;margin:35% auto;border-radius:5px}.toast-box .toast-title{font-size:19px;padding-bottom:20px}.toast-box .toast-msg{font-size:16px;line-height:1.25em}.toast-box .toast-msg-container{position:relative;color:#333;padding:30px 20px 20px;text-align:center;border-bottom:1px solid #f0f0f0}.toast-msg-container .notice_logo{position:absolute;left:50%;width:59px;height:50px;margin-top:-55px;margin-left:-30px}.toast-box .toast-btn,.toast-box .one-btn-wrap{display:inline-block;width:50%;text-align:center;padding:15px 0;color:#ff473e;font-size:16px}.toast-box .toast-btn:nth-child(1){border-right:1px solid #f0f0f0;margin-right:-1px}.toast-box .one-btn-wrap{width:100%;border-radius:0 0 5px 5px}.toast-box .two-btn-wrap{font-size:0}.favorite-toast-txt{font-size:16px;color:#333;text-align:center}.toast .toast-box.share-tips{text-align:center;padding-bottom:20px;width:200px;max-width:70%;margin-top:20%}.share-tips .share-tips-close-wrap{height:20px;position:relative}.share-tips .share-tips-close-wrap a{font-weight:900;position:absolute;width:20px;height:20px;line-height:20px;right:5px;top:5px}.toast .toast-box.share-tips img{width:155px;max-width:100%}.share-tips .tips-share-btn{display:block;text-align:center;background:#f45947;color:#fff;font-size:15px;height:28px;line-height:28px;width:80%;margin:20px auto 0;border-radius:14px}
+.scrollbacktophidden{position:fixed;right:-45px;bottom:60px;z-index:100;width:45px;height:45px;border-radius:2px;background:rgba(0,0,0,.3);-webkit-transition:right .4s ease}.scrollbacktophidden>em{display:block;width:16px;height:18px;margin:14px 15px}
+.player-bottom{position:fixed;z-index:20;bottom:0;width:100%;background:#fff;height:50px;box-shadow:0 -2px 4px rgba(0,0,0,.1);-webkit-box-shadow:0 -2px 4px rgba(0,0,0,.1);-moz-box-shadow:0 -2px 4px rgba(0,0,0,.1);-o-box-shadow:0 -2px 4px rgba(0,0,0,.1)}.player-bottom .initial-text{position:absolute;top:50%;left:60px;right:78px;margin-top:-9px;text-align:left;font-size:16px;font-weight:400;color:#333}.player-bottom img{margin-right:10px;float:left;width:50px;height:50px}.player-bottom .song-title{margin:8px 80px 0 0;font-size:16px;font-weight:400;height:18px;color:#000;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;text-transform:Capitalize}.player-bottom .play-time{margin:3px 0 0;font-size:13px;font-weight:400;color:#999}.player-bottom .play-time>em{display:inline-block;width:3px;height:3px;background:#fb7571;margin:0 0 0 4px}.player-bottom .flash{-webkit-animation:flash .9s infinite linear}@-webkit-keyframes flash{0%{opacity:1}33%{opacity:.2}66%{opacity:.2}}.player-bottom .btn{position:absolute;width:36px;height:36px}.player-bottom .btn.gray{filter:grayscale(100%);-webkit-filter:grayscale(100%);-moz-filter:grayscale(100%);-o-filter:grayscale(100%)}.player-bottom .btn.play,.player-bottom .btn.pause{right:30px;top:6px}.player-bottom .btn.next{right:-4px;top:6px}
+.logo{display:inline-block;width:25px;height:25px}
+.main-search{position:relative;margin:0 10px 9px}.main-search input{display:block;width:100%;height:30px;color:#b2b2b2;text-align:left;border:0;background:transparent;box-shadow:none;-webkit-appearance:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}.searchinputWrap{position:relative;padding-left:7px;border:1px solid #e2e2e2;border-radius:2px}.main-search-btn{position:absolute;right:3px;top:3px;width:50px;height:26px;background-color:#fb7571;border:0;border-radius:12px}.main-download-img:after{position:absolute;left:50%;margin-left:-9px;top:50%;margin-top:-9px;content:"";display:block;width:18px;height:18px}.main-download-img{position:relative}.main-download-img:after{position:absolute;left:50%;margin-left:-9px;top:50%;margin-top:-9px;content:"";display:block;width:18px;height:18px}.placeholder{position:absolute;top:0;left:0;display:block;width:100%;height:100%;z-index:999;box-sizing:border-box}.main-search-btn-img{position:absolute;top:50%;right:7px;margin-top:-6px;display:block;width:12px;height:12px}
+header{width:100%}.header-container{position:relative;height:44px;line-height:44px;background:#e74038;background-size:1px 44px}.nav-header-container{min-height:44px;height:auto}
+.logoPart{height:47px}.logoPart .user-quest,.logoPart .site-share{position:relative;float:right;display:block;width:39px;height:48px}.logoPart .user-quest>i,.logoPart .site-share>i{display:block;width:19px;height:19px;margin:14px auto}.logo{float:left;margin:10px 5px 7px 10px}.webname{float:left;padding:0;margin:0;font-size:21px;line-height:47px;font-weight:400;color:#444}.webname span{font-size:14px}.main-header{height:auto;background:#fff}.user-center{float:right;display:block;width:38px;height:47px}.appdownload{float:right;margin-right:4px;position:relative;display:block;width:30px;height:47px}.usercenter-icon{position:relative;margin:14px auto;display:block}.usercenter-icon.mark-unread:after{position:absolute;right:-2px;top:-1px;display:block;content:'';width:4px;height:4px;border-radius:50%;border:2px solid #fff;background:#ff473e}.usercenter-wrap{position:relative;float:right}.usercenter-wrap .bubble{position:relative;float:right;padding:0 5px;margin-top:14px;margin-right:5px;font-size:12px;line-height:18px;color:#fff;background:#e74038;border-radius:3px;-webkit-animation:bubblemove 1s linear infinite;display:none}.usercenter-wrap .bubble:after{content:"";position:absolute;right:-3px;top:50%;margin-top:-3px;display:block;width:6px;height:6px;background:#e74038;-webkit-transform:rotate(45deg)}@-webkit-keyframes bubblemove{0%{-webkit-transform:translateX(10px)}50%{-webkit-transform:translateX(0px)}100%{-webkit-transform:translateX(10px)}}
+.c-submenu{background:#fafafa;display:-webkit-box;display:box;padding:0 10px;border:1px solid #eee;border-left:0;border-right:0}.c-submenu.gray{background:#fafafa}.c-submenu li{-webkit-box-flex:1;box-flex:1}.c-submenu a{display:block;font-size:16px;color:#666;line-height:38px;text-align:center}.c-submenu .actived-tab a{color:#ff473e;border-bottom:2px solid #ff473e}
+.slide-banner{position:relative;overflow:hidden;z-index:1}.slide-banner .list{display:-webkit-box;height:100%;-webkit-box-lines:multiple;font-size:0}.slide-banner .list>a{display:block;width:100%;height:100%;background:#b2b2b2 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAA0CAMAAADPNIq/AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACWUExURQAAANjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2A62n70AAAAxdFJOUwAXsjvkCu8E5/vUKBLz37sdcsp+aK6DjA6ekrZjRHmoL9qZv8VeJFFIV0GkzzX3hmzWPAqsAAACt0lEQVRIx4WV14KCMBBFAyQQQkcpCoggKnbz/z+3E5rIouZlcTmZemdAaHqM1EtrxZBMoqFv52hxODot/GQVbfbnreGaczcyPjk6Zbt8/dhPOC3n84dOQJd9AKsJaDrznO1NY1zMg+G/fBS9fbPbJFQfOJn8y5q0vlUFoUO6Yi27imfq0/q2lOZHnIWJHCmzBVfUhjyiX0fbNeDiJ4g2bVi/wRsVYKD9JhvfvvQb9ASIjW+IdCohW6Pxff6MGSubcwceZAHuP2HmWu1b4n2rT1Z0bQXgIK6U89zS6vvvm0gL4K8z11/0fAmFn+CaUKA7w51GnOiJAb4t46MOmlGSPUVDJJ+vz2ngnHOrUOF7+V8vmhQ2NvVFL2RR8xCZ77o2gzVBkqhiO0DE3bpaCfXRDrX5FiE01pOQW60bLHWwinNoTkJQth07frTjKCEhLGnXJaVzBvoxbi+1Kd0kM3Fbqka75Ab9Sl42PbsbcVG39XiWa4g/jwaTq67YOTxv1TH4FHVyBpNJ9+/NMC79EdNwrga5dSHq6dQzTzSRwab3LY/A6A28iFSDsh+eiz7oEC3H4miCOcuXwyRrkYxLR9xdbJK9vOqzuXXZFEJ/j7HcIDgzCsreohZ2L0R6sTxwzWAbQVK6o16LxrRbKb503E6815ARRYMwCFhhYG6xaAqRXVjBgqN4JiFQ7ktrJwsWb10NUiW9Dpeq5T9HO4jE6AZzRy2+GG+mOMSssuhhsmUtjG2LO9mgvlpWC/9K0/ep1u+YUopVfpe94wFJ2TK3KfOv1nqy/ZZ3HQOKwb3OL8QD8+zqM8v5t/xSlastSrkch/R69f1ClWeWQM3g82gDi+Gjsil8CE9dzy5T8rhz3aK2LUCbYbU6fdrORtRuNDmOdOw8v+1mqQ6DHS5J+lDMX18ZI3seNXNm5f0Bf+qGSePwLbcAAAAASUVORK5CYII=) center no-repeat}.slide-banner .list>a>img{width:100%;min-height:118px}.slide-banner .arrow{display:block;position:absolute;top:50%;margin-top:-50px;padding:20px;zoom:1}.slide-banner .arrow>.shadow-circle{border-radius:30px;background:rgba(0,0,0,.3)}.slide-banner .arrow em{display:block;width:15px;height:23px}.slide-banner .arrow.left{left:-50px}.slide-banner .arrow.left>.shadow-circle{padding:18px 13px 19px 32px}.slide-banner .arrow.right{right:-50px}.slide-banner .arrow.right>.shadow-circle{padding:18px 32px 19px 13px}.slide-banner .rate-box{position:absolute;bottom:6px;left:50%;margin-left:-50px;width:100px;height:6px;border-radius:3px;background:rgba(0,0,0,.4)}.slide-banner .rate-box>.bar{position:absolute;left:0;min-width:20px;height:100%;border-radius:3px;background:#fff}.slidewrap{padding-top:31.9%;overflow:hidden}.slidewrap .list{position:absolute;left:0;top:0;width:100%;height:100%}
+.download-app{position:relative;display:block;padding:8px 10px 7px;background:#fff;overflow:hidden}.bottom-logo-icon{display:inline-block;width:50px;height:50px;margin-right:10px;vertical-align:middle}.download-app-txt{position:absolute;z-index:10;left:0;top:50%;padding-left:80px;padding-right:80px;margin-top:-16px;display:block;width:100%;box-sizing:border-box}.download-app-txt:before{content:"";position:absolute;left:70px;top:50%;margin-top:-13px;display:block;width:1px;height:26px;background:#e2e2e2}.download-app-txt h3{font-size:14px;font-weight:400;color:#333;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.download-app-txt p{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.download-app-enter{float:right;display:inline-block;width:55px;margin-top:13px;font-size:14px;line-height:23px;color:#fff;text-align:center;background:#ff473e;border-radius:1px}.appicon{width:50px;margin-right:10px;vertical-align:middle}.addownload{width:50px;font-size:12px}.facebookad{position:relative;height:75px;overflow:hidden;box-sizing:border-box}.adtag{position:absolute;left:-20px;top:-20px;z-index:100;border-width:20px;border-style:solid;border-color:transparent transparent #6aba39;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.adtag i{position:absolute;left:50
+
+------------------ [length: 10220 index: 3 cost: 12ms total: 1094ms] ------------------
+
+%;bottom:-20px;margin-left:-7px;font-size:10px;font-style:normal;color:#fff}.planAtag{left:-15px;top:-15px;border-width:15px}.planAtag i{bottom:-18px;font-size:9px}.download-uc .bottom-logo-icon{background:url(/public/c/c/facebook-ad/images/uclogo_b25c302.png)no-repeat;background-size:50px}.download-uc .addownload{background:#ff9113}.download-yolo .addownload{width:65px}
+.panel-sub-func{display:box;display:-webkit-box;background:#fff;border:1px solid #e8e8e8;min-height:42px}.panel-sub-func>.item{display:block;-webkit-box-flex:1;box-flex:1;border-right:1px solid #E8E8E8;padding-top:3px}.panel-sub-func.large{height:48px}.panel-sub-func.large>.item{padding-top:7px}.panel-sub-func>.item:last-child{border:0}.panel-sub-func>.item:before{content:'';display:block;width:20px;height:20px;margin:0 auto}.panel-sub-func>.item>.text{font-size:12px;color:#666;text-align:center}
+.colorful-label{color:#fff;background:#ff473e;padding:3px;border-radius:2px;display:inline-block}.colorful-label.blue{background:#86C5F2;padding:0 3px;border-radius:0}.colorful-label.red{background:#ff473e;font-size:14px;padding:3px 6px}.colorful-label.yellow{background:#fbc43f;font-size:11px;padding:0 4px;display:inline}
+.gen-block-title{position:relative;height:36px;background:#fff;font-size:16px;overflow:hidden;color:#333}.gen-block-title.gray{background:#f0f0f0;font-size:13px;color:#666}.gen-block-title.hot-icon:after{position:absolute;right:-14px;top:-2px;content:'HOT';display:block;width:42px;height:20px;background:red;color:#fff;font-size:10px;-webkit-transform:rotate(45deg);line-height:28px;text-align:center}.gen-block-title>.text{position:relative;float:left;padding:10px 0 8px;margin:0 10px}.gen-block-title>.text:before{display:block;float:left;content:'';margin:0 4px 0 0;width:14px;height:14px}.gen-block-title>.text>i{font-size:11px;color:#999;font-style:normal}.gen-block-title.simple>.text{padding-left:6px}.gen-block-title.simple>.text:before{position:absolute;top:50%;left:0;width:2px;height:12px;margin-top:-5px;background:#ff473e}.gen-block-title>.refresh{display:block;position:absolute;right:6px;top:2px;width:24px;height:24px}.gen-block-title>.refresh.shape-rectangle{width:auto!important;height:auto!important;background:#ff473e;color:#fff;font-size:12px;padding:4px 6px;margin-top:5px;border-radius:2px}.gen-block-title>.text-new-release:before{margin-top:2px}.gen-block-title>.text-pop-artists:before{margin-top:1px}.gen-block-title .more-label{display:block;position:absolute;right:10px;top:8px}
+.panel-more-fn{display:-webkit-box;min-height:51px;color:#fff;background:#444}.panel-more-fn>.btn{position:relative;display:block;padding-top:8px;-webkit-box-flex:1;text-align:center;color:#FFF}.panel-more-fn>.btn>.icon{display:block;margin:0 auto 3px;width:17px;height:17px}.panel-more-fn .icon-music-like:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-like.on:after{background-repeat: no-repea
+
+------------------ [length: 2920 index: 4 cost: 1ms total: 1095ms] ------------------
+
+t;}.panel-more-fn .icon-music-dislike:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-play:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-artist:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-album:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-share:after{background-repeat: no-repeat;}.panel-more-fn .icon-music-like:after{background-position:0px 0px}.panel-more-fn .icon-music-like.on:after{background-position:-22px 0px}.panel-more-fn .icon-music-dislike:after{background-position:0px -22px}.panel-more-fn .icon-music-play:after{background-position:-22px -22px}.panel-more-fn .icon-music-artist:after{background-position:-44px 0px}.panel-more-fn .icon-music-album:after{background-position:-44px -22px}.panel-more-fn .icon-music-share:after{background-position:0px -44px}.panel-more-fn .icon-music-like:after,.panel-more-fn .icon-music-like.on:after,.panel-more-fn .icon-music-dislike:after,.panel-more-fn .icon-music-play:after,.panel-more-fn .icon-music-artist:after,.panel-more-fn .icon-music-album:after,.panel-more-fn .icon-music-share:after{background-size: 66px 61px;background-image: url(/public/c/c/panel-more-fn/panel-more-fn_0.5_z_a89dd6d.png)}
+.list-arrow{position:absolute;top:50%;margin-top:-5px;right:15px;z-index:1;display:block;width:6px;height:10px}
+.popup{position:fixed;z-index:20;top:62px;left:10px;right:10px;padding:9px;padding-left:30px;color:#fff;text-align:center;bor
+
+------------------ [length: 1460 index: 5 cost: 28ms total: 1123ms] ------------------
+
+der-radius:4px;background:rgba(0,0,0,.6)}.popup .text:before{position:relative;content:'';display:inline-block;width:12px;height:12px;left:-4px;top:1px}
+.item-daily-rec-song{position:relative;background:#fff;overflow:hidden;padding:5px 10px}.item-daily-rec-song .card-date{float:left;width:50px;height:50px;margin-right:10px}.item-daily-rec-song .title{font-size:16px;color:#333;margin-top:4px}.item-daily-rec-song .descri{font-size:11px;color:#b2b2b2;margin-top:8px}
+.album-item{position:relative;display:block;min-height:49px;border-bottom:1px solid #f0f0f0;overflow:hidden}.album-item.white{background:#fff}.album-item .click-area{display:block;padding-right:20px;margin:5px 0 5px 10px}.album-item .click-area.with-more-fn{padding-right:0;margin-right:33px}.album-item .more-fn{position:absolute;right:0;top:0;display:block;min-width:33px;height:40px;padding-top:20px;text-align:center}.album-item .more-fn i{display:block;width:3px;height:3px;margin:0 auto 5px;background:#B9B9B9}.album-item .custom-desc{color:#b2b2b2}.albumItemPlaceholderSimplify{display:inline-block;width:50px;height:50px;margin-right:5px;text-align:center;vertical-align:middle;background-color:#e9e9e9}.albumItemPlaceholderSimplify img{max-width:100%;max-height:100%}.albumTxtSimplify{display:inline-block;width:75%;vertical-align:middle}.albumNameSimplify{margin-bottom:3px;font-size:14px;line-height:18px;color:#333}.albumNameSimplify>em{font-style:normal;color:#167ac6}.albumSinge
+
+------------------ [length: 1460 index: 6 cost: 4ms total: 1127ms] ------------------
+
+rSimplify{font-size:12px;color:#999}.albumNameSimplify,.albumSingerSimplify{width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.album-item .bigarrow{position:absolute;top:50%;right:10px;margin-top:-10px;width:12px;height:20px}.hotorder:first-child .after-center:before,.hotorder:nth-child(2) .after-center:before,.hotorder:nth-child(3) .after-center:before{content:"";display:block;position:absolute;left:0;top:0;z-index:10;width:19px;height:19px}.hotdetail{font-size:11px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.hotdetail .name{padding-left:8px;color:#999;border-left:1px solid #f0f0f0}.hotdownload{padding-right:8px}.hotdownload i{display:inline-block;width:6px;height:8px;margin-right:4px;vertical-align:middle}.hotorder:first-child .hotdownload{color:#ff473e}.hotorder:nth-child(2) .hotdownload{color:#ff793e}.hotorder:nth-child(3) .hotdownload{color:#ffbd53}.edit-status .album-item{padding-left:39px}
+.playlist-item-wrap{position:relative;background:#fff;border-bottom:1px solid #f0f0f0;overflow:hidden}.playlist-item-wrap .more-fn{position:absolute;right:0;top:0;display:block;min-width:33px;height:40px;padding-top:20px;text-align:center}.playlist-item-wrap .more-fn i{display:block;width:3px;height:3px;margin:0 auto 5px;background:#B9B9B9}.playlistItem{position:relative;display:block;min-height:50px;margin:5px 0 5px 10px}.playlistItem.with-more-fn{margin-right:33px}.playlistImg{float:left;display:block;width:50px;height:50px;margin-right:15px;background:#f0f0f0}.playlistImg img{max-width:50px;max-height:50px}.playlistTxt{display:block;min-height:33px;padding-right:26px}.playlistTxt:before{content:'';position:absolute;left:53px;top:50%;margin-top:-20px;display:block;width:1px;height:40px;background:#a2a2a2}.playlistTxt:after{content:'';position:absolute;left:57px;top:50%;margin-top:-15px;display:block;width:1px;height:30px;background:#a2a2a2}.playlistTxt h3{font-size:14px;font-weight:400;color:#333;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;padding-top:8px}.playlistTxt .info{margin-top:3px;font-size:12px;line-height:12px;color:#888}.hotdetail{font-size:11px}.hotdownload{padding-right:8px}.hotdownload i{display:inline-block;width:6px;height:8px;margin-right:4px;vertical-align:middle}.hotorder:first-child .hotdownload{color:#ff473e}.hotorder:nth-child(2) .hotdownload{color:#ff793e}.hotorder:nth-child(3) .hotdownload{color:#ffbd53}.hotorder:first-child .after-center:before,.hotorder:nth-child(2) .after-center:before,.hotorder:nth-child(3) .after-center:before{content:"";display:block;position:absolute;left:0;top:0;z-index:10;width:19px;height:19px}.edit-status .playlist-item-wrap{padding-left:32px}
+.card-date-in-rec{position:relative;background:#666;border-radius:4px;border-top:1px solid #767676;width:100%;height:100%;color:#fff}.card-date-in-rec .date{position:absolute;z-index:2;top:14px;width:100%;text-align:center;font-size:32p
+
+------------------ [length: 2920 index: 7 cost: 10ms total: 1137ms] ------------------
+
+x}.card-date-in-rec .month{position:absolute;z-index:2;bottom:0;right:4px;font-size:8px}.card-date-in-rec .mid-line{position:absolute;z-index:1;top:50%;margin-top:-1px;width:100%;height:0;border:1px solid;border-top-color:#505050;border-bottom-color:#6f6f6f;border-left:0;border-right:0}.card-date-in-rec .white-box{position:absolute;z-index:2;top:50%;margin-top:-3px;width:2px;height:6px;background:#fff}.card-date-in-rec .white-box.left{left:0}.card-date-in-rec .white-box.right{right:0}
+.panel-lang-card{background:#fff;margin:1px 0 5px}.lang-card-tbl{border-collapse:inherit;border-spacing:7px;width:100%}.lang-card-tbl td{width:25%}.panel-lang-card .item{margin-bottom:3px;background:#e3f9ff;color:#444;font-size:12px;line-height:25px;display:block;text-align:center}.panel-lang-card .item.red{background:#ffe9e9}.panel-lang-card .item.blue{background:#e3f9ff}.panel-lang-card .item.purple{background:#ededff}.panel-lang-card .item.dark-blue{background:#daefff}.panel-lang-card .item.yellow{background:#fff7cf}.panel-lang-card .item.orange{background:#feeedc}.panel-lang-card .item.green{background:#dfffda}.panel-lang-card .item.pink{background:#fde9ff}
+.change-btn{display:block;position:relative;height:35px;line-height:35px;background:#fafafa;color:#ff473e;border:1px solid #e8e8e8;border-left:0;border-right:0;font-size:13px;text-align:center}.change-btn:after{content:'';display:block;position:absolute;left:50%;top:50%;width:12px;height:14px;margin
+
+------------------ [length: 1460 index: 8 cost: 25ms total: 1162ms] ------------------
+
+:-8px 0 0 -40px}
+.panel-new-release{background:#fff}.panel-new-release .relateAlbumRow{padding-left:5px;padding-right:5px;border-bottom:1px solid #f0f0f0}.panel-new-release .relateAlbumRow.simple{padding-left:0;padding-right:0;border-bottom:0}.panel-new-release .album-item{border-bottom:0}
+.singer-row{display:table;width:100%;padding:4px 0 2px;background:#fff}.singer-row>.row-wrap{display:table-row}.singer-row>.row-wrap>.item-wrap{display:table-cell;padding-bottom:10px;text-align:center;vertical-align:top;width:33.33%}.singer-item{display:inline-block;width:60px}.singer-item>img{position:relative;z-index:1;width:60px;height:60px;border-radius:30px}.singer-row .rank-icon{width:13px;height:17px;margin:7px auto 0}.singer-row .name{margin:4px 0;font-size:11px;line-height:12px;color:#666}.artists-bg{position:relative}.artists-bg:after{content:"";position:absolute;left:50%;top:50%;margin-top:-19px;margin-left:-19px;display:block;width:38px;height:38px;-webkit-transform:scale(1.58)}
+.see-all{display:block;height:35px;background:#fafafa;border-top:1px solid #f0f0f0;border-bottom:1px solid #e8e8e8;color:#ff473e}.see-all>.text{display:block;width:80px;margin:10px auto;text-align:center;font-size:14px}
+.panel-pop-artists{margin:5px 0;color:#666}.singer-row-cont{background:#fff}
+.loading{text-align:center}.loading .loading-logo{width:40px;height:40px;display:inline-block;-webkit-animation:loading .75s infinite linear;-webkit-transform:scale(0.5);po
+
+------------------ [length: 1460 index: 9 cost: 234ms total: 1396ms] ------------------
+
+sition:relative;z-index:10}@-webkit-keyframes loading{from{-webkit-transform:rotate(0deg)}to{-webkit-transform:rotate(360deg)}}.loading-logo:after{-webkit-transform:scale(0.5)}.nomore{display:none;text-align:center;background:#fff;padding:15px 0}
+.playlistsFeatured{margin-bottom:5px;background:#fff}.playlistsFeatured .featuredTitle{padding:0 5px;margin-top:2px;font-size:18px;font-weight:400;line-height:37px;color:#333}.playlistsFeatured .playlistItem{border-bottom:0}
+.char-item{position:relative;display:block;background:#fff;padding:10px 0 8px 10px;margin:5px 0}.char-item .img{float:left;width:68px;height:68px;margin-right:10px}.char-item .title{font-size:14px;color:#333;font-weight:400;margin-bottom:6px}.char-item .details{margin-right:20px}.char-item .rank-item{color:#666;font-size:11px;line-height:12px;margin:2px 0}.char-item .rank-item>i{display:inline-block;width:14px;height:14px;margin-right:4px;border-radius:50%;color:#fff;font-size:8px;line-height:14px;font-style:normal;text-align:center}.char-item .rank-item:nth-child(1)>i{background:#e75d56}.char-item .rank-item:nth-child(2)>i{background:#fa9871}.char-item .rank-item:nth-child(3)>i{background:#fabe71}.char-item.grid{width:33.333%;margin:0;padding:8px;float:left;box-sizing:border-box}.char-item.grid .img{float:none;width:100%;height:auto;min-height:70px}.char-item.grid .title{margin:5px 0}.char-item.grid .details{display:none}.char-item.grid .label{padding:2px 5px;background:#f
+
+------------------ [length: 1460 index: 10 cost: 1ms total: 1397ms] ------------------
+
+b7571;color:#fff}.char-item.homepage-style{margin:0;padding:0 0 12px}.char-item.homepage-style .img{position:absolute;width:50px;height:50px;top:42px;left:10px}.char-item.homepage-style .title{background:#f8f8f8;color:#333;padding:8px 0 8px 10px;font-size:14px}.char-item.homepage-style .details{margin:12px 20px 0 70px}.char-item.homepage-style .list-arrow{margin-top:11px}
+.indexInner{margin-top:-1px;background:#f0f0f0}.topchar-cont{background:#fff;overflow:hidden;margin-top:1px}.bottom-nav{background:#fff;display:-webkit-box;margin-top:5px;margin-bottom:1px}.bottom-nav .nav-child{-webkit-box-flex:1;padding:10px 20px}.nav-child .group-title{font-size:14px;color:#a1a1a1;margin-bottom:15px}.nav-child .group-link{display:block;font-size:14px;color:#ff473e;margin-bottom:10px}.index-more-albums .facebookad{border-bottom:1px solid #f0f0f0}
+</style></head>
+  <body>
+    <script>
+        /* 做前端性能统计，白屏加载时间的依赖变量 */
+        __BODYSTARTTIME = +new Date;
+    </script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="G-loadingCover" style="display:none">
+    <div class="G-loadingBox G-loadingBoxShow" data-tip="Loading..."><p class="G-loading-img"></p></div>
+</div>
+
+
+<a click_totop_btn class="scrollbacktophidden" stat_click="backtop_click"><em class="float_backtop-icon-img"></em></a>
+
+
+
+<div class="player-bottom" style="display:none">
+    <img id="player-img" src="/public/c/img/small_default_1968c76.png" alt="" />
+    <h1 id="player-
+
+------------------ [length: 1460 index: 11 cost: 1ms total: 1398ms] ------------------
+
+init-text" class="initial-text">Enjoy Your Hot Music!</h1>
+    <h1 id="player-title" class="song-title" style="display:none">song title</h1>
+    <h2 id="player-time" class="play-time" style="display:none">00:03/04:45</h2>
+    <div id="btn-play" class="btn play gray"></div>
+    <div id="btn-pause" class="btn pause gray" style="display:none"></div>
+    <div id="btn-next" class="btn next gray"></div>
+    <audio id="player"></audio>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="content">
+        
+	<div data-pagelet="main">
+    <header>
+	<div class="header-container  nav-header-container  clearfix">
+		
+	<div class="main-header" data-ck-rg="header">
+		<div class="logoPart"  ms-visible="subTabShow" >
+			<div class="logo main-header-logo-img"></div>
+			<h1 class="webname"><b>YoloSong</b><span>.com</span></h1>
+			<a class="site-share" href="javascript:void(0)" stat_click="site_share"><i></i></a>
+            <a class="user-quest" href="http://myz.ucweb.com:8010/uc_survey/web/index.php?control=webSurvey&action=showsurvey&surveyId=450&k=uc_common_param&TYPE=U3"><i></i></a>
+
+            <a usercenter class="usercenter-wrap clearfix" stat_click="user_center_click" href="/my" data-pagelets="main" ><span class="user-center user-center-img after-center" ><i class="usercenter-icon usericonshake"></i></a>
+            
+			
+			
+		</div>
+		<div class="main-search">
+	<div data-pagelet="main.main-search-input">
+	<div class="searchinputWrap">
+	<input main_search_cover
+
+------------------ [length: 1460 index: 12 cost: 11ms total: 1409ms] ------------------
+
+_input search_input type="search" value="Search Songs, Albums, Artists...">
+	<i class="main-search-btn-img"></i>
+	</div>
+	<a href="/searchMiddle" data-pagelets="main" class="placeholder" main_search_cover_placeholder stat_click="hit_home_search"></a>
+	</div>
+</div>
+
+	</div>
+
+    
+
+	</div>
+</header>
+
+    
+<ul class="c-submenu clearfix" >
+    <li  class="actived-tab"  main-tab-selector="index">
+        <a data-pagelets="main.outter_page_content" href="/"
+            stat_click="nav_tab_click"
+            data-nav-name="index"
+        >Home</a>
+    </li>
+    
+    <li  main-tab-selector="album">
+        <a data-stat-evt="album_in" data-pagelets="main.outter_page_content" href="/album/hindi"
+            stat_click="nav_tab_click"
+            data-nav-name="albums"
+        >Albums</a>
+    </li>
+    <li  main-tab-selector="playlists">
+        <a data-stat-evt="playlists" data-pagelets="main.outter_page_content" href="/playlists/language-featured"
+            stat_click="nav_tab_click"
+            data-nav-name="playlists"
+        >Playlists</a>
+    </li>
+    
+    <li  main-tab-selector="ringtones">
+        <a data-stat-evt="ringtones_in" data-pagelets="main.outter_page_content" href="/ringtones/featured"
+            stat_click="nav_tab_click"
+            data-nav-name="ringtones"
+        >Ringtones</a>
+    </li>
+</ul>
+
+
+    <div data-pagelet="main.outter_page_content">
+        <div class="indexInner">
+            
+            <div class="slide-banner">
+    <div class="slidewrap">
+    <div class="list">
+
+        
+        <a banner_item href="/playlist/punjabi_dj_mix/33dee4c3915469a25e383687f6b3e1dd.html" data-pagelets="main"><img lazyload-src="http://img.ucweb.com/s/uae/g/0z/img/banner/punjabi_dj.jpg" data-alt="punjabi_dj"/></a>
+        
+        <a banner_item href="/playlists/language-english" data-pagelets="main"><img lazyload-src="http://img.ucweb.com/s/uae/g/0z/img/english_playlist.jpg" data-alt="english_playlist"/></a>
+        
+        <a banner_item href="/playlist/retro_trending_music/4ea514416cc4a18fec2d7908ab9334c9.html" data-pagelets="main"><img lazyload-src="http://img.ucweb.com/s/uae/g/0z/img/banner/retro_music.jpg" data-alt="retro_music"/></a>
+        
+
+    </div>
+    <a href="javascript:void(0)" slide_left class="arrow left"><div class="shadow-circle"><em></em></div></a>
+    <a href="javascript:void(0)" slide_right class="arrow right"><div class="shadow-circle"><em></em></div></a>
+    <div class="rate-box">
+        <div class="bar"></div>
+    </div>
+    </div>
+</div>
+
+            <input class="applink" type="hidden" value="" />
+<input class="isMini" type="hidden" value="0"/>
+            
+
+            
+
+            <div style="margin:5px 0">
+            
+            
+<div class="panel-sub-func">
+
+    
+    <a style="min-width:25%" class="item top-chart" data-pagelets="main" stat_click="sub_func_click" data-ck-po="top-chart" href="/topchar.html">
+        <p class="text">Top</p>
+    </a>
+    
+    <a style="min-width:25%" class="item category" data-pagelets="main.outter_page_content" stat_click="sub_func_click" data-ck-po="category" href="/category/bollywood">
+        <p class="text">Category</p>
+    </a>
+    
+    <a style="min-width:25%" class="item artists" data-pagelets="main" stat_click="sub_func_click" data-ck-po="artists" href="/artists">
+        <p class="text">Artists</p>
+    </a>
+    
+    <a style="min-width:25%" class="item dj" data-pagelets="main" stat_click="sub_func_click" data-ck-po="dj" href="/dj/dj_mixes">
+        <p class="text">DJ Remix</p>
+    </a>
+    
+
+</div>
+
+            </div>
+
+            <div class="panel-recommended" data-pn-rec-sid="d0d6b0cfa1a9515591481af552575b7b" data-ck-rg="pn_rec">
+
+<div class="gen-block-title simple hot-icon">
+    
+    <span class="text">Recommendation</span>
+	
+
+	
+
+    
+</div>
+
+
+
+<div class="rec-album-playlist" data-pn-rec-rid="fca5954ba4dca4fc9573b393f95ec0af">
+<!-- pagelet[main.outter_page_content.recAlbumPlaylist] start -->
+    
+    
+    
+        
+            
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="eb3a0e4f4dbae1d23986d7c8cd4e64ee"
+     data-album="India Independence Anthems"
+     data-singer="A.R. Rahman"
+     data-pos="1"
+
+
+data-page="1"
+
+
+
+
+data-rec-stat="{&quot;_id&quot;:&quot;eb3a0e4f4dbae1d23986d7c8cd4e64ee&quot;,&quot;_pos&quot;:1442981800,&quot;_res_type&quot;:&quot;album&quot;,&quot;_mmm&quot;:&quot;hot&quot;}"
+ >
+
+	
+	
+
+    <a class="click-area with-more-fn" href="/albumInner/india_independence_anthems/eb3a0e4f4dbae1d23986d7c8cd4e64ee.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/2Zz346aL-AiD3U2t0f.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    India Independence Anthems
+                
+                
+            </div>
+            
+            <div class="albumSingerSimplify txt-capitalize">
+                
+                    A.R. Rahman
+                
+            </div>
+            
+        </div>
+        
+        
+    </a>
+    
+    <a href="javascript:;" class="more-fn" album_more_func stat_click="album_more_tab_click"><i></i><i></i><i></i></a>
+    <div class="album-more-fn-panel" style="display:none">
+    <div class="panel-more-fn" data-event-group="album">
+    
+    
+    <a panel_more_fn_btn class="btn" href="javascript:;" data-pagelets="main" data-event-tag="like"
+        
+        
+            stat_click=pn_rec_favorite
+        
+        
+            >
+        <i class="icon icon-music-like after-center"></i>
+        <p class="text txt-capitalize">favorite</p>
+    </a>
+    
+    
+    
+    <a panel_more_fn_btn class="btn" href="javascript:;" data-pagelets="main" data-event-tag="dislike"
+        
+        
+            stat_click=pn_rec_dislike
+        
+        
+            >
+        <i class="icon icon-music-dislike after-center"></i>
+        <p class="text txt-capitalize">unlike</p>
+    </a>
+    
+    
+</div>
+    </div>
+    
+</div>
+
+
+        
+    
+        
+            
+
+<div class="album-item white"
+     data-language="english"
+     data-album-id="79f83786b978744b256e70e15f218fcd"
+     data-album="What Do You Mean?"
+     data-singer="Justin Bieber"
+     data-pos="2"
+
+
+data-page="1"
+
+
+
+
+data-rec-stat="{&quot;_id&quot;:&quot;79f83786b978744b256e70e15f218fcd&quot;,&quot;_pos&quot;:1442981888,&quot;_res_type&quot;:&quot;album&quot;,&quot;_mmm&quot;:&quot;hot&quot;}"
+ >
+
+	
+	
+
+    <a class="click-area with-more-fn" href="/albumInner/what_do_you_mean_/79f83786b978744b256e70e15f218fcd.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/3D9346aL-gzk40durf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    What Do You Mean?
+                
+                
+            </div>
+            
+            <div class="albumSingerSimplify txt-capitalize">
+                
+                    Justin Bieber
+                
+            </div>
+            
+        </div>
+        
+        
+    </a>
+    
+    <a href="javascript:;" class="more-fn" album_more_func stat_click="album_more_tab_click"><i></i><i></i><i></i></a>
+    <div class="album-more-fn-panel" style="display:none">
+    <div class="panel-more-fn" data-event-group="album">
+    
+    
+    <a panel_more_fn_btn class="btn" href="javascript:;" data-pagelets="main" data-event-tag="like"
+        
+        
+            stat_click=pn_rec_favorite
+        
+        
+            >
+        <i class="icon icon-music-like after-center"></i>
+        <p class="text txt-capitalize">favorite</p>
+    </a>
+    
+    
+    
+    <a panel_more_fn_btn class="btn" href="javascript:;" data-pagelets="main" data-event-tag="dislike"
+        
+        
+            stat_click=pn_rec_dislike
+        
+        
+            >
+        <i class="icon icon-music-dislike after-center"></i>
+        <p class="text txt-capitalize">unlike</p>
+    </a>
+    
+    
+</div>
+    </div>
+    
+</div>
+
+
+        
+    
+        
+            
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="3d05e8a829e980fb4843bfd66b3e5a0d"
+     data-name="Shikwa"
+     data-pos="3"
+     data-type="genre"
+     data-sectype="romance"
+
+
+
+
+data-rec-stat="{&quot;_id&quot;:&quot;3d05e8a829e980fb4843bfd66b3e5a0d&quot;,&quot;_pos&quot;:305,&quot;_res_type&quot;:&quot;playlist&quot;,&quot;_mmm&quot;:&quot;hot
+
+------------------ [length: 8760 index: 13 cost: 8ms total: 1417ms] ------------------
+
+&quot;}"
+>
+
+
+<a href="/playlist/shikwa/3d05e8a829e980fb4843bfd66b3e5a0d.html" data-playlist-id="3d05e8a829e980fb4843bfd66b3e5a0d"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/6T3386aL-hcL3KNQOf.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">Shikwa</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>61523</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+        
+    
+        
+            
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="d652e045201efeafabdb7da15f63dae0"
+     data-name="Bollywood Romance Top 50"
+     data-pos="4"
+     data-type="genre"
+     data-sectype="top%20charts"
+
+
+
+
+data-rec-stat="{&quot;_id&quot;:&quot;d652e045201efeafabdb7da15f63dae0&quot;,&quot;_pos&quot;:405,&quot;_res_type&quot;:&quot;playlist&quot;,&quot;_mmm&quot;:&quot;hot&quot;}"
+>
+
+
+<a href="/playlist/bollywood_romance_top_50/d652e045201efeafabdb7da15f63dae0.html" data-playlist-id="d652e045201efeafabdb7da15f63dae0"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/6T5386aL-hkt3KNVwf.jpeg" >
+		
+	</div>
+	<div class
+
+------------------ [length: 1460 index: 14 cost: 323ms total: 1740ms] ------------------
+
+="playlistTxt">
+		<h3 class="">Bollywood Romance Top 50</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>81453</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+        
+    
+    <!-- pagelet[main.outter_page_content.recAlbumPlaylist] end -->
+</div>
+</div>
+            <section class="panel-lang-card" data-ck-rg="lang_card">
+	
+	<table class="lang-card-tbl" >
+		<tr>
+			<td><a stat_click="lang_card_click" class="item red" data-pagelets="main.outter_page_content" data-ck-po="hindi"  href="/album/hindi">Hindi</a></td>
+            <td><a stat_click="lang_card_click" class="item blue" data-pagelets="main.outter_page_content" data-ck-po="punjabi"  href="/album/punjabi">Punjabi</a></td>
+            <td><a stat_click="lang_card_click" class="item purple" data-pagelets="main.outter_page_content" data-ck-po="english"  href="/album/english">English</a></td>
+            <td><a stat_click="lang_card_click" class="item dark-blue" data-pagelets="main.outter_page_content" data-ck-po="bhojpuri"  href="/album/bhojpuri">Bhojpuri</a></td>
+		</tr>
+		<tr>
+            <td><a stat_click="lang_card_click" class="item yellow" data-pagelets="main.outter_page_content" data-ck-po="telugu"  href="/album/telugu">Telugu</a></td>
+            <td><a stat_click="lang_card_click" class="item orange" data-pagelets="main.outter_page_content" data-ck-po="tamil"  href="/album/tamil">Tamil</a></td>
+            <td><a stat_click="lang_card_click" class="item green" data-pagelets="main.outter_page_content" data-ck-po="kannada"  href="/album/kannada">Kannada</a></td>
+            <td><a stat_click="lang_card_click" class="item pink" data-pagelets="main.outter_page_content" data-ck-po="marathi"  href="/album/marathi">Marathi</a></td>
+		</tr>
+	</table>
+
+</section>
+
+            
+            <div id="panel-new-release" class="panel-new-release" data-ck-rg="new_release">
+    
+<div class="gen-block-title simple">
+    
+    <span class="text">New Releases&nbsp;&nbsp;<i>(update at 8:00 everyday)</i></span>
+    
+
+	
+
+    
+</div>
+
+    <div class="list">
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="174795b899aaaef0138566e1d4054b43"
+     data-album="Vidya - Covers + Mashups"
+     data-singer="Shankar Tucker"
+     data-pos="1"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/vidya_covers_mashups/174795b899aaaef0138566e1d4054b43.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/8qJ346aLOS-vHU47HFyf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Vidya - Covers + Mashups
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>6038</span><span class="name">Shankar Tucker</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="8b7b09ef05a092f608df1e3ae897672d"
+     data-album="Coke Studio Season 8 Episode 6"
+     data-singer="Shazia Manzoor, Rizwan &amp; more"
+     data-pos="2"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/coke_studio_season_8_episode_6/8b7b09ef05a092f608df1e3ae897672d.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/40P386aLOS-obL46JOpf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Coke Studio Season 8 Episode 6
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>38654</span><span class="name">Shazia Manzoor, Rizwan &amp; more</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="4f18c6a8006146ddbafb110473dbff15"
+     data-album="Pyaar Bepanah"
+     data-singer="Jazim Sharma"
+     data-pos="3"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/pyaar_bepanah/4f18c6a8006146ddbafb110473dbff15.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/65g346aLOS-mOr46JOVf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Pyaar Bepanah
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>40860</span><span class="name">Jazim Sharma</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="249de43dad9ead58ccd442785ece7e3a"
+     data-album="Lakhon Hain Yahan Dilwale"
+     data-singer="Usha Timothy, Vishal Kothari"
+     data-pos="4"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/lakhon_hain_yahan_dilwale/249de43dad9ead58ccd442785ece7e3a.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/3RB386aLOS-1qa45P9ff.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Lakhon Hain Yahan Dilwale
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>231864</span><span class="name">Usha Timothy, Vishal Kothari</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="42024c64aa4a160d7e3bf42649024ba6"
+     data-album="Tum Mera Pyar Ho"
+     data-singer="Falak Shabir"
+     data-pos="5"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/tum_mera_pyar_ho/42024c64aa4a160d7e3bf42649024ba6.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/Qr346aLOS-0Y845e7Vf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Tum Mera Pyar Ho
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>906950</span><span class="name">Falak Shabir</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+        
+
+<div class="album-item"
+     data-language="hindi"
+     data-album-id="01271872b444fc13a7c17d1b19a7b5a2"
+     data-album="Bajirao Mastani"
+     data-singer="Shreyas Puranik"
+     data-pos="6"
+
+
+data-page="1"
+
+
+
+
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/bajirao_mastani/01271872b444fc13a7c17d1b19a7b5a2.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img src="http://img.ucweb.com/n/nav/15/5ax386aLOS-7y945V51f.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Bajirao Mastani
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>382651</span><span class="name">Shreyas Puranik</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+    
+    </div>
+    <a href="javascript:void(0)" class="change-btn" change_new_release stat_click="change_btn_click">
+    Change
+</a>
+</div>
+
+
+            <section id="pop-artists" class="panel-pop-artists" data-ck-rg="popular_artists">
+    
+    
+    
+<div class="gen-block-title simple">
+    
+    <span class="text">Popular Artists</span>
+	
+
+	
+
+    
+</div>
+
+
+    <div class="singer-row">
+
+    
+    <div class="row-wrap">
+    
+    <div class="item-wrap" data-singer-id="453900d938e86ff9ac3568b85b0cc0b8">
+        <a href="/artist/yo_yo_honey_singh/songs/453900d938e86ff9ac3568b85b0cc0b8" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="yo yo honey singh" data-pos="1">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/84E386aL-teY3SR6Jf.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_1"></div>
+        <div class="name txt-capitalize">yo yo honey singh</div>
+    </div>
+    
+
+    
+    <div class="item-wrap" data-singer-id="64e49da8097a269d7bdda0d1d8049b03">
+        <a href="/artist/amaal_mallik/songs/64e49da8097a269d7bdda0d1d8049b03" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="amaal mallik" data-pos="2">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/2ZA346aL-wX73Tdmsf.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_2"></div>
+        <div class="name txt-capitalize">amaal mallik</div>
+    </div>
+    
+
+    
+    <div class="item-wrap" data-singer-id="f5896051384407e8fb75fa0731a556ef">
+        <a href="/artist/devisri_prasad/songs/f5896051384407e8fb75fa0731a556ef" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="devisri prasad" data-pos="3">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/2ZA346aL-wHo3TcsDf.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_3"></div>
+        <div class="name txt-capitalize">devisri prasad</div>
+    </div>
+    
+    </div>
+    
+
+    
+    <div class="row-wrap">
+    
+    <div class="item-wrap" data-singer-id="67decdee7f4259df93caa07e3bb3b434">
+        <a href="/artist/devi_sri_prasad/songs/67decdee7f4259df93caa07e3bb3b434" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="devi sri prasad" data-pos="4">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/2ZA346aL-wGx3Tcpdf.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_4"></div>
+        <div class="name txt-capitalize">devi sri prasad</div>
+    </div>
+    
+
+    
+    <div class="item-wrap" data-singer-id="a873ce054319f8e13e2fc36bc041b750">
+        <a href="/artist/pritam_chakraborty/songs/a873ce054319f8e13e2fc36bc041b750" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="pritam chakraborty" data-pos="5">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/84E386aL-ynR3Th3of.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_5"></div>
+        <div class="name txt-capitalize">pritam chakraborty</div>
+    </div>
+    
+
+    
+    <div class="item-wrap" data-singer-id="cefbea94e0256624d27592f3000f5eef">
+        <a href="/artist/shreyas_puranik_/songs/cefbea94e0256624d27592f3000f5eef" data-pagelets="main" class="singer-item artists-bg"
+           stat_click="artist_click_rg"
+           data-artist-name="shreyas puranik
+            
+            " data-pos="6">
+            
+            <img src="/public/c/c/cards/card-artist-list-item/images/artists_38b72d5.png" lazyload-src="http://img.ucweb.com/n/nav/15/2ZA346aL-yj43ThTwf.jpeg"/>
+            
+        </a>
+        <div class="rank-icon rank_6"></div>
+        <div class="name txt-capitalize">shreyas puranik
+            
+            </div>
+    </div>
+    
+    </div>
+    
+
+</div>
+
+
+
+    
+    <a class="see-all" href="/artists" data-pagelets="main" stat_click="see_all_click">
+    <span class="text">See All &gt;&gt;</span>
+</a>
+</section>
+
+            
+            <div class="playlistsFeatured">
+	
+	
+<div class="gen-block-title simple">
+    
+    <span class="text">Featured Playlists</span>
+	
+
+	
+
+    
+</div>
+
+
+    <div class="list" data-ck-rg="featured_playlists">
+    <!-- pagelet[main.outter_page_content.loadmore] start -->
+    
+	
+		
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="0b8309bf48740baba4b3eeacaf575478"
+     data-name="Absolutely Ayushmann"
+     data-pos="1"
+     data-type="language"
+     data-sectype="hindi"
+
+
+data-featured="featured"
+
+
+>
+
+
+<a href="/playlist/absolutely_ayushmann/0b8309bf48740baba4b3eeacaf575478.html" data-playlist-id="0b8309bf48740baba4b3eeacaf575478"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/Qr346aLOS-18545oKVf.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">Absolutely Ayushmann</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>55573</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+	
+		
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="71cc430da26038d45b9444982e84f6c4"
+     data-name="Unplugged"
+     data-pos="2"
+     data-type="language"
+     data-sectype="hindi"
+
+
+data-featured="featured"
+
+
+>
+
+
+<a href="/playlist/unplugged/71cc430da26038d45b9444982e84f6c4.html" data-playlist-id="71cc430da26038d45b9444982e84f6c4"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/Qr346aLOS-18r45oOCf.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">Unplugged</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>74343</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+	
+		
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="3847632678df53a76fa86d0a69d76dd6"
+     data-name="The Boss - Akshay Kumar"
+     data-pos="3"
+     data-type="language"
+     data-sectype="hindi"
+
+
+data-featured="featured"
+
+
+>
+
+
+<a href="/playlist/the_boss_akshay_kumar/3847632678df53a76fa86d0a69d76dd6.html" data-playlist-id="3847632678df53a76fa86d0a69d76dd6"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/Qr346aLOS-18h45oMhf.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">The Boss - Akshay Kumar</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>88583</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+	
+		
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="fc8bc7bab85a188801c8540055abcfb6"
+     data-name="Icons - Gulzar"
+     data-pos="4"
+     data-type="language"
+     data-sectype="hindi"
+
+
+data-featured="featured"
+
+
+>
+
+
+<a href="/playlist/icons_gulzar/fc8bc7bab85a188801c8540055abcfb6.html" data-playlist-id="fc8bc7bab85a188801c8540055abcfb6"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/2ZW386aL-qhB3VCEHf.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">Icons - Gulzar</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>68243</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+	
+		
+	
+	
+
+<div class="playlist-item-wrap"
+     data-playlist-id="cc49f5012a7fb04e452b842133b7d808"
+     data-name="Icons - Asha Bhosle"
+     data-pos="5"
+     data-type="language"
+     data-sectype="hindi"
+
+
+data-featured="featured"
+
+
+>
+
+
+<a href="/playlist/icons_asha_bhosle/cc49f5012a7fb04e452b842133b7d808.html" data-playlist-id="cc49f5012a7fb04e452b842133b7d808"  data-pagelets="main" class="playlistItem clearfix hotplaylistItem"
+    stat_click="playlist_click,playlist_click_rg"
+>
+	<div class="playlistImg small-placeholder-img after-center ">
+		
+		<img lazyload-src="http://img.ucweb.com/n/nav/15/7xA386aL-hQP42hE9f.jpeg" >
+		
+	</div>
+	<div class="playlistTxt">
+		<h3 class="">Icons - Asha Bhosle</h3>
+		
+		<div class="hotdetail"><span class="hotdownload"><i></i>69343</span> </div>
+	</div>
+    
+	<div class="list-arrow"></div>
+    
+</a>
+    
+</div>
+
+
+	
+    <!-- pagelet[main.outter_page_content.loadmore] end -->
+    </div>
+
+    
+    <a class="see-all" href="/playlists/language-featured" data-pagelets="main" stat_click="see_all_click">
+    <span class="text">See All &gt;&gt;</span>
+</a>
+    
+</div>
+
+            <div data-ck-rg="top_chart">
+                
+<div class="gen-block-title simple">
+    
+    <span class="text">Top Charts</span>
+	
+
+	
+
+    
+</div>
+
+                
+                <div class="topchar-cont">
+                
+                    <a class="char-item homepage-style" href="/topcharInner/daily_top_songs" data-pagelets="main"
+   stat_click="chart_click,chart_click_rg" data-pos="1">
+    <img class="img" lazyload-src="http://img.ucweb.com/s/uae/g/view/990379c471d5d8214e6c91ea033040ed"/>
+    <h1 class="title">Yolo Top-Songs</h1>
+    
+    <ul class="details">
+        
+        <li class="rank-item txt-cut"><i>1</i><span class="txt-capitalize">Dheere Dheere</span></li>
+        
+        <li class="rank-item txt-cut"><i>2</i><span class="txt-capitalize">Main Hoon Hero Tera (Salman Khan Version)</span></li>
+        
+        <li class="rank-item txt-cut"><i>3</i><span class="txt-capitalize">Dj Waley Babu</span></li>
+        
+    </ul>
+    <div class="list-arrow"></div>
+    
+</a>
+
+                
+                    <a class="char-item homepage-style" href="/topcharInner/daily_top_albums" data-pagelets="main"
+   stat_click="chart_click,chart_click_rg" data-pos="2">
+    <img class="img" lazyload-src="http://img.ucweb.com/s/uae/g/view/db246145ea275f0b831ebf77da085865"/>
+    <h1 class="title">Yolo Top-Albums</h1>
+    
+    <ul class="details">
+        
+        <li class="rank-item txt-cut"><i>1</i><span class="txt-capitalize">Hero</span></li>
+        
+        <li class="rank-item txt-cut"><i>2</i><span class="txt-capitalize">Pyaar Bepanah</span></li>
+        
+        <li class="rank-item txt-cut"><i>3</i><span class="txt-capitalize">Kis Kisko Pyaar Karoon (2015)</span></li>
+        
+    </ul>
+    <div class="list-arrow"></div>
+    
+</a>
+
+                
+                    <a class="char-item homepage-style" href="/topcharInner/hindi_retro_top" data-pagelets="main"
+   stat_click="chart_click,chart_click_rg" data-pos="3">
+    <img class="img" lazyload-src="http://img.ucweb.com/s/uae/g/view/a1a2ac33957bda5fd6bd096f0be7c64b"/>
+    <h1 class="title">Hindi Retro Top</h1>
+    
+    <ul class="details">
+        
+        <li class="rank-item txt-cut"><i>1</i><span class="txt-capitalize">i am a disco dancer</span></li>
+        
+        <li class="rank-item txt-cut"><i>2</i><span class="txt-capitalize">karvaten badalte rahe</span></li>
+        
+        <li class="rank-item txt-cut"><i>3</i><span class="txt-capitalize">aajkal paon zamin par nahin padte</span></li>
+        
+    </ul>
+    <div class="list-arrow"></div>
+    
+</a>
+
+                
+                    <a class="char-item homepage-style" href="/topcharInner/itunes_india" data-pagelets="main"
+   stat_click="chart_click,chart_click_rg" data-pos="4">
+    <img class="img" lazyload-src="http://img.ucweb.com/s/uae/g/view/5acea4832aab3a0413e6d5a487de1f54"/>
+    <h1 class="title">iTunes India</h1>
+    
+    <ul class="details">
+        
+        <li class="rank-item txt-cut"><i>1</i><span class="txt-capitalize">want to want me</span></li>
+        
+        <li class="rank-item txt-cut"><i>2</i><span class="txt-capitalize">O Khuda</span></li>
+        
+        <li class="rank-item txt-cut"><i>3</i><span class="txt-capitalize">Don&#39;u Don&#39;u Don&#39;u (The Don&#39;s Romance)</span></li>
+        
+    </ul>
+    <div class="list-arrow"></div>
+    
+</a>
+
+                
+                </div>
+                <a class="see-all" href="/topchar" data-pagelets="main" stat_click="see_all_click">
+    <span class="text">See All &gt;&gt;</span>
+</a>
+            </div>
+
+            <div style="height:5px"></div>
+            
+<div class="gen-block-title simple">
+    
+    <span class="text">More albums and playlists</span>
+	
+
+	
+
+    
+</div>
+
+            
+            <div class="index-more-albums" data-ck-rg="index_more">
+                
+                
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="01271872b444fc13a7c17d1b19a7b5a2"
+     data-album="Bajirao Mastani"
+     data-singer="Shreyas Puranik"
+     data-pos="1"
+
+
+data-page="1"
+
+
+
+data-from-where="index_loadmore"
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/bajirao_mastani/01271872b444fc13a7c17d1b19a7b5a2.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/5ax386aLOS-7y945V51f.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Bajirao Mastani
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>382651</span><span class="name">Shreyas Puranik</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+                
+                
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="f271b232c23901f293a940bbc4379e3f"
+     data-album="Talvar"
+     data-singer="Vishal Bhardwaj"
+     data-pos="2"
+
+
+data-page="1"
+
+
+
+data-from-where="index_loadmore"
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/talvar/f271b232c23901f293a940bbc4379e3f.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/1YB386aLOS-f0i43KeCf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Talvar
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>646324</span><span class="name">Vishal Bhardwaj</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+                
+                
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="55efa04e326ecfaeb03be1180e67c0c3"
+     data-album="Dheere Dheere"
+     data-singer="Yo Yo Honey Singh"
+     data-pos="3"
+
+
+data-page="1"
+
+
+
+data-from-where="index_loadmore"
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/dheere_dheere/55efa04e326ecfaeb03be1180e67c0c3.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/3D8346aL-io541Bqrf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Dheere Dheere
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>4711651</span><span class="name">Yo Yo Honey Singh</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+                
+                
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="b2e34fadfe7f9865791032929f39f6b2"
+     data-album="Hero"
+     data-singer="Amaal Mallik"
+     data-pos="4"
+
+
+data-page="1"
+
+
+
+data-from-where="index_loadmore"
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/hero/b2e34fadfe7f9865791032929f39f6b2.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/2Zz346aL-zC23TB6tf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Hero
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>16899429</span><span class="name">Amaal Mallik</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+                
+                
+
+<div class="album-item white"
+     data-language="hindi"
+     data-album-id="18fb47669aaca4a8b02f9d91b2ee63c6"
+     data-album="Brothers"
+     data-singer="Ajay-Atul"
+     data-pos="5"
+
+
+data-page="1"
+
+
+
+data-from-where="index_loadmore"
+
+ >
+
+	
+	
+
+    <a class="click-area" href="/albumInner/brothers/18fb47669aaca4a8b02f9d91b2ee63c6.html" data-pagelets="main"
+       stat_click="album_click,album_click_rg"
+    >
+        <div class="albumItemPlaceholderSimplify small-placeholder-img after-center">
+            
+            <img lazyload-src="http://img.ucweb.com/n/nav/15/6T5386aL-FgC3MlnYf.jpeg" >
+            
+        </div>
+        <div class="albumTxtSimplify">
+            <div class="albumNameSimplify txt-capitalize">
+                
+                    Brothers
+                
+                
+            </div>
+            
+            <div class="hotdetail"><span class="hotdownload"><i></i>16837484</span><span class="name">Ajay-Atul</span></div>
+            
+        </div>
+        
+        <div class="list-arrow"></div>
+        
+    </a>
+    
+</div>
+
+
+                
+            </div>
+            
+            <div class="loading"  style="display:block;" >
+	<div class="loading-logo after-center"></div>
+</div>
+<div class='nomore' style="display:none;" >END</div>
+
+        </div>
+
+        
+        <a href="/index/list-2" style="display:none">next page</a>
+    </div>
+</div>
+
+
+
+    </div>
+    <div id="play_bottom_placeholder" style="height:50px;display:none"></div>
+
+  <script type="text/javascript">
+  //页尾 js前折损率统计
+  var statSrc = "/stat?uc_param_str=dnfrcpvenwnt&e_c=background_log&e_a=page_end_log&appid=04e0f1054620&lt=event&mvcPath=page/index/index&browser=not_ucbrowser&useCDN=0"
+  var timeDistent = (new Date()).valueOf() - pageRealTime
+  statSrc += "&timeDistent=" + timeDistent
+  
+  statSrc += "&miniBrowser=0"
+  
+  
+  statSrc += "&ucBrowser=0"
+  
+  var statImg = new Image
+  statImg.src = statSrc
+  /* 做前端性能统计，首屏加载时间的依赖变量 */
+  __BODYENDTIME = +new Date;
+  </script>
+
+    
+
+  <script src="/co??v/lib/js-error-log_4283ef1.js,v/lib/md_d613d97.js,v/lib/S_5a8e5ac.js,v/lib/pagelet_935b5c1.js,v/lib/new_wa_3e7680e.js,c/utils/storage/storage_3b336fc.js,c/utils/wa-manage/wa-manage_833a91d.js,c/utils/wa-manage/common_92c606b.js,c/utils/wa-manage/module/main-config_581d38b.js,c/c/pagelet-loading/pagelet-loading_3074133.js,c/utils/page-manage/page-manage_e073638.js,c/c/toast/share-tips/share-tips_a124b35.js,c/utils/wa-rules/c/share/share_87ab643.js,c/c/share/share_d13f431.js,c/c/toast/toast_e270f4b.js,c/c/my/collection-manager/collection-manager_5d02da4.js,c/utils/wa-rules/c/download-handle/download-handle_4b4af4f.js,c/c/download-handle/download-handle_1afbb1d.js,c/utils/statistic/statistic_7fd6a30.js,c/c/backtop/backtop_467a4fe.js,c/utils/wa-manage/module/player-config_6847523.js,c/c/player/player_91f2bc8.js,c/c/header-new/main-header/main-header_dd951ca.js,c/utils/wa-rules/c/submenu/submenu_8437463.js,c/c/submenu/submenu_71cc4fd.js,c/c/slide-banner/slide-banner_18501da.js,c/c/facebook-ad/facebook-ad_244d19d.js,c/utils/wa-rules/c/panel-sub-func/panel-sub-func_135944b.js,c/c/panel-sub-func/panel-sub-func_a019204.js,c/utils/wa-rules/c/general/block-title/block-title_163b631.js,c/c/general/block-title/block-title_ed71b5a.js,c/c/panel-more-fn/panel-more-fn_e91329e.js,c/c/popup/popup_bbd30cd.js,c/utils/img-lazyload/img-lazyload_68e4afb.js,c/utils/wa-rules/c/panel-recommended/panel-recommended_8b48dfd.js,c/c/panel-recommended/panel-recommended_e331ae6.js,c/utils/wa-rules/c/album-list/album-item/album-item_702a034.js,c/c/album-list/album-item/album-item_94181f0.js,c/c/playlists/playlists-item/playlists-item_9b812c1.js,c/c/panel-new-release/panel-new-release_d9d10ee.js,c/c/popular-artists/popular-artists_b681420.js,c/c/loading/loading_5565e05.js,c/utils/wa-rules/c/char-list/topchar-item/topchar-item_df78b0e.js,c/c/char-list/topchar-item/topchar-item_586651d.js,c/c/header-new/header-unread-marker/header-unread-marker_1baa3b3.js,c/utils/wa-manage/module/index-config_006b474.js,c/page/index/index_f332c4e.js"></script>
+<script>pagelet.init(1,"/co??%s",["v/lib/js-error-log_4283ef1.js","v/lib/md_d613d97.js","v/lib/S_5a8e5ac.js","v/lib/pagelet_935b5c1.js","v/lib/new_wa_3e7680e.js","c/utils/storage/storage_3b336fc.js","c/utils/wa-manage/wa-manage_833a91d.js","c/utils/wa-manage/common_92c606b.js","c/utils/wa-manage/module/main-config_581d38b.js","c/c/pagelet-loading/pagelet-loading_3074133.js","c/utils/page-manage/page-manage_e073638.js","c/c/toast/share-tips/share-tips_a124b35.js","c/utils/wa-rules/c/share/share_87ab643.js","c/c/share/share_d13f431.js","c/c/toast/toast_e270f4b.js","c/c/my/collection-manager/collection-manager_5d02da4.js","c/utils/wa-rules/c/download-handle/download-handle_4b4af4f.js","c/c/download-handle/download-handle_1afbb1d.js","c/utils/statistic/statistic_7fd6a30.js","c/c/backtop/backtop_467a4fe.js","c/utils/wa-manage/module/player-config_6847523.js","c/c/player/player_91f2bc8.js","c/c/header-new/main-header/main-header_dd951ca.js","c/utils/wa-rules/c/submenu/submenu_8437463.js","c/c/submenu/submenu_71cc4fd.js","c/c/slide-banner/slide-banner_18501da.js","c/c/facebook-ad/facebook-ad_244d19d.js","c/utils/wa-rules/c/panel-sub-func/panel-sub-func_135944b.js","c/c/panel-sub-func/panel-sub-func_a019204.js","c/utils/wa-rules/c/general/block-title/block-title_163b631.js","c/c/general/block-title/block-title_ed71b5a.js","c/c/panel-more-fn/panel-more-fn_e91329e.js","c/c/popup/popup_bbd30cd.js","c/utils/img-lazyload/img-lazyload_68e4afb.js","c/utils/wa-rules/c/panel-recommended/panel-recommended_8b48dfd.js","c/c/panel-recommended/panel-recommended_e331ae6.js","c/utils/wa-rules/c/album-list/album-item/album-item_702a034.js","c/c/album-list/album-item/album-item_94181f0.js","c/c/playlists/playlists-item/playlists-item_9b812c1.js","c/c/panel-new-release/panel-new-release_d9d10ee.js","c/c/popular-artists/popular-artists_b681420.js","c/c/loading/loading_5565e05.js","c/utils/wa-rules/c/char-list/topchar-item/topchar-item_df78b0e.js","c/c/char-list/topchar-item/topchar-item_586651d.js","c/c/header-new/header-unread-marker/header-unread-marker_1baa3b3.js","c/utils/wa-manage/module/index-config_006b474.js","c/page/index/index_f332c4e.js","v/lib/normalize_30583ed.css","v/index_1e882c4.css","v/css_sprite/new_css_sprite_e279247.css","c/c/pagelet-loading/pagelet-loading_10da722.css","c/c/toast/toast_aa17736.css","c/c/backtop/backtop_954412c.css","c/c/player/player_e83004e.css","c/c/header-new/logo/logo_f220b06.css","c/c/header-new/main-search-input/main-search-input_6e8f06d.css","c/c/header-new/header-container/header-container_2c3beeb.css","c/c/header-new/main-header/main-header_a35d0a0.css","c/c/submenu/submenu_81e0d81.css","c/c/slide-banner/slide-banner_1acedbd.css","c/c/facebook-ad/facebook-ad_7b42b4e.css","c/c/panel-sub-func/panel-sub-func_84c3095.css","c/c/general/colorful-label/colorful-label_f7e03ab.css","c/c/general/block-title/block-title_d0cfb2f.css","c/c/panel-more-fn/panel-more-fn_90bd0a9.css","c/c/general/list-arrow/list-arrow_fd5456d.css","c/c/popup/popup_2ba6591.css","c/c/panel-recommended/panel-recommended_ff37eeb.css","c/c/album-list/album-item/album-item_244fa47.css","c/c/playlists/playlists-item/playlists-item_ba912fc.css","c/c/panel-recommended/card-date/card-date_9a442c9.css","c/c/panel-lang-card/panel-lang-card_448bbb4.css","c/c/change-btn/change-btn_4884f6d.css","c/c/panel-new-release/panel-new-release_57d326e.css","c/c/popular-artists/singer-row/singer-row_4fcc650.css","c/c/general/see-all/see-all_484ae03.css","c/c/popular-artists/popular-artists_29febfe.css","c/c/loading/loading_3f0a36a.css","c/c/playlists/playlists-featured/playlists-featured_2f67731.css","c/c/char-list/topchar-item/topchar-item_0552b13.css","c/page/index/index_62b08fc.css"],"597fb99");</script>
+<script>!function(){
+//分享API兼容性初始化
+var shareApi = require("c/share")
+shareApi.compatibilityInit('not_ucbrowser')
+
+
+
+//wa统计的区分全局参数  设置｀模板模式｀的统计字段值
+var _golbal_wa_params = {
+    
+    
+    
+    
+    miniBrowser: "0",
+    ucBrowser: "0",
+    browser: 'not_ucbrowser',
+    mvcPath : 'page/index/index',
+    version : '2.4.3',
+    useCDN : '0'
+    
+    
+};
+waSetPersistenceParams(_golbal_wa_params);
+
+var mainConfig = require("components/utils/wa-manage/module/main-config.js")
+var statCommon = require("components/utils/wa-manage/common.js")
+var statMng = require("utils/wa-manage");
+statMng.init();
+statMng.setConfig(statCommon.config);
+statMng.addRules(mainConfig)
+statMng.saveParam( _golbal_wa_params, true );
+statMng.enableParamQueue('pg');
+
+//
+
+------------------ [length: 35040 index: 15 cost: 2ms total: 1742ms] ------------------
+
+ 监听页面点击事件，自动加载pagelet
+var pageManage = require("utils/page-manage")
+pageManage.setPageletAddParams({
+
+    _release_version : '2.4.3',
+    uc_param_str : 'dnfrpfbivesscpntnwlani'
+})
+
+pageManage.autoload()
+}();!function(){
+require("utils/statistic")
+}();!function(){
+require("components/c/backtop/backtop.js")
+}();!function(){
+require("components/c/player/player.js")
+}();!function(){
+var collMng = require('c/my/collection-manager');
+collMng.checkAndRecover();
+}();!function(){
+    require("c/header-new/main-header")
+    }();!function(){
+require("components/c/slide-banner/slide-banner.js")
+}();!function(){require('components/c/panel-sub-func/panel-sub-func.js')}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-ite
+
+------------------ [length: 1460 index: 16 cost: 0ms total: 1742ms] ------------------
+
+m.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/panel-new-release/panel-new-release.js")
+}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){
+require("components/c/playlists/playlists-item/playlists-item.js")
+}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){require('components/c/char-list/topchar-item/topchar-item.js')}();!function(){require('components/c/char-list/topchar-item/topchar-item.js')}();!function(){require('components/c/char-list/topchar-item/topchar-item.js')}();!function(){require('components/c/char-list/topchar-item/topchar-item.js')}();!function(){require('components/c/general/block-title/block-title.js')}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+require("components/c/album-list/album-item/album-item.js")
+}();!function(){
+    //页尾 js后折损率统计
+    var statSrc = "/stat?uc_param_str=dnfrcpvenwnt&e_c=background_log&e_a=page_script_log&appid=04e0f1054620&lt=event&mvcPath=page/index/index&browser=not_ucbrowser&useCDN=0"
+    var timeDistent = (new Date()).valueOf() - pageRealTime
+    statSrc += "&timeDistent=" + timeDistent
+    
+        statSrc += "&miniBrowser=0"
+    
+      
+          statSrc += "&ucBrowser=0"
+      
+    var statImg = new Image
+    statImg.src = statSrc
+    }();</script>
+</body>
+  
+</html>
+
+------------------ [length: 2171 index: 17 cost: 57ms total: 1799ms] ------------------
+
